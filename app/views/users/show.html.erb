@@ -1,0 +1,13 @@
+<% provide(:title, @user.first_name + ' ' + @user.last_name) %>
+<h2><%= @user.first_name + ' ' + @user.last_name %></h2>
+
+<dl class="dl-horizontal">
+	<dt>Nombre(s)</dt>
+	<dd><%= @user.first_name %></dd>
+	<dt>Apellido(s)</dt>
+	<dd><%= @user.last_name %></dd>
+	<dt>Usuario</dt>
+	<dd><%= @user.username %></dd>
+	<dt>Es admin?</dt>
+	<dd><%= @user.admin? ? 'Si' : 'No' %></dd>
+</dl>
