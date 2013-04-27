@@ -1,0 +1,47 @@
+<% provide(:title, "Nuevo producto") %>
+<h2>Nuevo producto</h2>
+
+<%= form_for @product, :html => { :class => "form-horizontal" } do |f| %>
+  <%= render 'shared/error_messages', object: f.object %>
+
+  <div class="<%= control_group_class @product, :sku %>">
+    <%= f.label :sku, "Código", class: "control-label" %>
+    <div class="controls">
+      <%= f.text_field :sku %>
+    </div>
+  </div>
+
+  <div class="<%= control_group_class @product, :short_name %>">
+    <%= f.label :short_name, "Nombre corto", class: "control-label" %>
+    <div class="controls">
+      <%= f.text_field :short_name %>
+    </div>
+  </div>
+
+  <div class="<%= control_group_class @product, :name %>">
+    <%= f.label :name, "Nombre completo", class: "control-label" %>
+    <div class="controls">
+      <%= f.text_field :name %>
+    </div>
+  </div>
+
+  <div class="<%= control_group_class @product, :description %>">
+    <%= f.label :description, "Descripción", class: "control-label" %>
+    <div class="controls">
+      <%= f.text_area :description, :rows => 4 %>
+    </div>
+  </div>
+
+  <div class="<%= control_group_class @product, :reference %>">
+    <%= f.label :reference, "Referencia", class: "control-label" %>
+    <div class="controls">
+      <%= f.password_field :reference %>
+    </div>
+  </div>
+
+  <div class="control-group">
+    <div class="controls">
+      <%= f.submit "Guardar", class: "btn btn-large btn-primary" %>
+    </div>
+  </div>
+<% end %>

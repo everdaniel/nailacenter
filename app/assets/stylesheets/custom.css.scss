@@ -24,3 +24,19 @@ textarea {
     margin-bottom: 10px;
   }
 }
+
+.table th { text-align: center; }
+td.text-center { text-align: center; }
+td.text-right { text-align: right; }
+
+.pagination { text-align: center; }
+
+/* Errores */
+#error_explanation {
+  ul { background-color: #ededed; margin: 20px 0; padding: 20px; border-radius: 3px;
+    li {
+      list-style: none outside none;
+      font-weight: bold;
+    }
+  }
+}

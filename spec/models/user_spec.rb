@@ -3,12 +3,13 @@ require 'spec_helper'
 describe User do
 
   before do
-    @user = User.new(first_name: "Donald",
-    last_name: "Draper",
-    username: "don",
-    email: "d.draper@scdp.com",
-    password: "password",
-    password_confirmation: "password")
+    @user = User.new(
+                  first_name: "Donald",
+                  last_name: "Draper",
+                  username: "don",
+                  email: "d.draper@scdp.com",
+                  password: "password",
+                  password_confirmation: "password")
   end
 
   subject { @user }

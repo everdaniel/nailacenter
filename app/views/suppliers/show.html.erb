@@ -1,0 +1,18 @@
+<% provide(:title, @supplier.name) %>
+<div class="page-header">
+  <div class="row">
+    <div class="span10">
+      <h2>
+        <%= @supplier.name %>
+      </h2>
+      <% if !@supplier.description.blank? %>
+      <%= simple_format @supplier.description %>
+      <% end %>
+    </div>
+  </div>
+</div>
+
+<p>
+  <%= link_to "Editar", edit_supplier_path(@supplier), class: "btn btn-small" %>
+  <%= link_to "Borrar", @supplier, class: "btn btn-small btn-danger", method: :delete, data: { confirm: "Esta seguro?" } %>
+</p>

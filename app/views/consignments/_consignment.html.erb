@@ -1,0 +1,12 @@
+<tr>
+  <td class="text-center"><%= link_to consignment.id, consignment %></td>
+  <td><%= link_to consignment.name, consignment %> a <%= link_to consignment.supplier.name, consignment.supplier %></td>
+  <td class="text-center"><% if consignment.status == 1 %><label class="label label-warning">Enviado</label><% else %><label class="label label-success">Recibido</label><% end %></td>
+  <td class="text-center">
+    <%= link_to "Ver", consignment, class: "btn btn-small btn-success" %>
+    <% if current_user.admin? %>
+    <%= link_to "Editar", edit_consignment_path(consignment), class: "btn btn-small" %>
+    <%= link_to "Borrar", consignment, class: "btn btn-small btn-danger", method: :delete, data: { confirm: "Esta seguro?" } %>
+    <% end %>
+  </td>
+</tr>

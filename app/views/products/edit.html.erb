@@ -1,0 +1,54 @@
+<% provide(:title, "Editar" + @product.short_name) %>
+<h2>Editar <%= @product.short_name %></h2>
+
+<%= form_for @product, :html => { :class => "form-horizontal" } do |f| %>
+  <%= render 'shared/error_messages', object: f.object %>
+
+  <div class="<%= control_group_class @product, :sku %>">
+    <%= f.label :sku, "Código", class: "control-label" %>
+    <div class="controls">
+      <%= f.text_field :sku %>
+    </div>
+  </div>
+
+  <div class="<%= control_group_class @product, :short_name %>">
+    <%= form-horizontal.label :short_name, "Nombre corto", class: "control-label" %>
+    <div class="controls">
+      <%= f.text_field :short_name %>
+    </div>
+  </div>
+
+  <div class="<%= control_group_class @product, :name %>">
+    <%= f.label :name, "Nombre completo", class: "control-label" %>
+    <div class="controls">
+      <%= f.text_field :name %>
+    </div>
+  </div>
+
+  <div class="<%= control_group_class @product, :description %>">
+    <%= f.label :description, "Descripción", class: "control-label" %>
+    <div class="controls">
+      <%= f.text_area :description %>
+    </div>
+  </div>
+
+  <div class="<%= control_group_class @product, :reference %>">
+    <%= f.label :reference, "Referencia", class: "control-label" %>
+    <div class="controls">
+      <%= f.password_field :reference %>
+    </div>
+  </div>
+
+  <div class="<%= control_group_class @product, :is_active %>">
+    <%= f.label :is_active, "Activo?", class: "control-label" %>
+    <div class="controls">
+      <%= f.check_box :is_active %>
+    </div>
+  </div>
+
+  <div class="control-group">
+    <div class="controls">
+      <%= f.submit "Guardar", class: "btn btn-large btn-primary" %>
+    </div>
+  </div>
+<% end %>

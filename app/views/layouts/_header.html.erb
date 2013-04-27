@@ -4,13 +4,16 @@
       <%= link_to "Naila Center", root_path, id: "logo", class: "brand" %>
       <nav>
         <ul class="nav pull-right">
-          <li class="<%= "active" if (params[:controller] == "dashboard") %>"><%= link_to "Dashboard", root_path %></li>
           <% if signed_in? %>
+          <li class="<%= "active" if (params[:controller] == "dashboard") %>"><%= link_to "Dashboard", root_path %></li>
           <li class="<%= "active" if (params[:controller] == "sales") %>"><%= link_to "Ventas", '#' %></li>
-          <li class="<%= "active" if (params[:controller] == "products") %>"><%= link_to "Productos", '#' %></li>
-          <li class="<%= "active" if (params[:controller] == "inventory") %>"><%= link_to "Inventario", '#' %></li>
-          <li class="<%= "active" if (params[:controller] == "customers") %>"><%= link_to "Clientes", '#' %></li>
+          <% if current_user.admin? %>
+          <li class="<%= "active" if (params[:controller] == "consignments") %>"><%= link_to "Pedidos", consignments_path %></li>
+          <li class="<%= "active" if (params[:controller] == "products") %>"><%= link_to "Productos", products_path %></li>
+          <li class="<%= "active" if (params[:controller] == "customers") %>"><%= link_to "Clientes", customers_path %></li>
+          <li class="<%= "active" if (params[:controller] == "suppliers") %>"><%= link_to "Proveedores", suppliers_path %></li>
           <li class="<%= "active" if (params[:controller] == "users") %>"><%= link_to "Usuarios", users_path %></li>
+          <% end %>
           <li><%= link_to "Salir", logout_path, method: "delete" %></li>
           <% else %>
           <li><%= link_to "Ingresar", login_path %></li>

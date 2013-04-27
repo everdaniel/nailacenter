@@ -1,0 +1,16 @@
+<% provide(:title, @customer.first_name + " " + @customer.last_name) %>
+<div class="page-header">
+  <div class="row">
+    <div class="span10">
+      <h2>
+        <%= @customer.first_name + " " + @customer.last_name %>
+        <% if !@customer.company_name.blank? %><small><%= @customer.company_name %></smalL><% end %>
+      </h2>
+    </div>
+  </div>
+</div>
+
+<p>
+  <%= link_to "Editar", edit_customer_path(@customer), class: "btn btn-small" %>
+  <%= link_to "Borrar", @customer, class: "btn btn-small btn-danger", method: :delete, data: { confirm: "Esta seguro?" } %>
+</p>

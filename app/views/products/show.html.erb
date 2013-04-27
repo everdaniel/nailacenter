@@ -1,0 +1,99 @@
+<% provide(:title, @product.name) %>
+<div class="page-header">
+	<div class="row">
+		<div class="span10">
+			<h2>
+				<%= @product.name %>
+				<small>
+					<% if @product.is_active? %>
+					<label class="label label-success">ACTIVO</label>
+					<% else %>
+					<label class="label label-warning">INACTIVO</label>
+					<% end %>
+				</small>
+			</h2>
+			<% if !@product.blank? %>
+			<%= simple_format @product.description %>
+			<% end %>
+		</div>
+		<div class="span2">
+			<dl>
+				<dt>Precio venta</dt>
+				<dd><%= @product.stocks.first.price if @product.stocks.any? %></dd>
+				<dt>En stock</dt>
+				<dd><%= @product.stocks.sum(:quantity) if @product.stocks.any? %></dd>
+			</dl>
+		</div>
+	</div>
+</div>
+
+<p>
+	<%= link_to "Editar", edit_product_path(@product), class: "btn btn-small" %>
+	<%= link_to "Borrar", @product, class: "btn btn-small btn-danger", method: :delete, data: { confirm: "Esta seguro?" } %>
+</p>
+
+<div class="row">
+	<div class="span6">
+		<h3>Stock actual</h3>
+		<% if @product.stocks.any? %>
+		<table class="table table-striped table-condensed">
+			<thead>
+				<tr>
+					<th>Costo</th>
+					<th>Precio</th>
+					<th>En Stock</th>
+				</tr>
+			</thead>
+			<tbody>
+				<% @product.stocks.each do |stock| %>
+				<tr>
+					<td class="text-right"><%= stock.cost %></td>
+					<td class="text-right"><%= stock.price %></td>
+					<td class="text-right"><%= stock.quantity %></td>
+				</tr>
+				<% end %>
+			</tbody>
+		</table>
+		<% else %>
+		Sin stock
+		<% end %>
+	</div>
+	<div class="offset1 span5">
+		<div class="row">
+			<div class="12">
+				<h3>Compras recientes</h3>
+				<table class="table table-striped table-condensed">
+					<thead>
+						<tr>
+							<th>Proveedor</th>
+							<th>Costo</th>
+							<th>Fecha</th>
+							<th>Cant.</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>Apple Inc.</td>
+							<td>720.00</td>
+							<td>03/04/2013</td>
+							<td>3</td>
+						</tr>
+						<tr>
+							<td>Stargate LLC</td>
+							<td>715.00</td>
+							<td>15/03/2013</td>
+							<td>9</td>
+						</tr>
+						<tr>
+							<td>Navenet</td>
+							<td>650.00</td>
+							<td>03/03/2013</td>
+							<td>8</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+		
+	</div>
+</div>

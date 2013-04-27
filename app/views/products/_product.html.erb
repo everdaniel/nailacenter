@@ -1,0 +1,16 @@
+<% stock = product.stocks.first %>
+<tr>
+	<td><%= link_to product.sku, product %></td>
+	<td class=""><%= link_to product.short_name, product %></td>
+	<td class="text-center"><%= product.is_active ? "Si" : "No" %></td>
+	<td class="text-right"><%= product.stocks.first.price if !product.stocks.first.nil? %></td>
+	<td class="text-right"><%= product.stocks.sum(:quantity) %></td>
+	<td class="text-center">
+		<%= link_to "Ver", product, class: "btn btn-small btn-success" %>
+		<% if current_user.admin? %>
+		<%= link_to "Editar", edit_product_path(product), class: "btn btn-small" %>
+		<%#= link_to "Password", user_change_password_path(user), class: "btn btn-small btn-info" %>
+		<%= link_to "Borrar", product, class: "btn btn-small btn-danger", method: :delete, data: { confirm: "Esta seguro?" } %>
+		<% end %>
+	</td>
+</tr>

@@ -1,0 +1,10 @@
+// Place all the styles related to the Products controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+td {
+	&.value-id { text-align: right; }
+	&.value-reference { text-align: center; }
+	&.value-is-active { text-align: center; }
+	&.value-price { text-align: right; }
+	&.value-inventory { text-align: right; }
+}

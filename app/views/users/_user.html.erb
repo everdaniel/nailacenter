@@ -5,7 +5,7 @@
 	<td><%= user.email %></td>
 	<td><%= user.admin ? "Si" : "No" %>
 	<td>
-		<%= link_to "Ver", user, class: "btn btn-small" %>
+		<%= link_to "Ver", user, class: "btn btn-small btn-success" %>
 		<% if current_user.admin? %>
 		<%= link_to "Editar", edit_user_path(user), class: "btn btn-small" %>
 		<%= link_to "Password", user_change_password_path(user), class: "btn btn-small btn-info" %>

@@ -2,10 +2,15 @@ Nailacenter::Application.routes.draw do
 
   resources :sessions, only: [:new, :create, :destroy]
   resources :users do
-  	# averiguar despues porque estas rutas usan user_id y no id como parametro!
+  	# TODO: averiguar despues porque estas rutas usan user_id y no id como parametro!
   	get :change_password
   	put :change_password_update
   end
+  resources :products
+  resources :suppliers
+  resources :customers
+  resources :consignments
+  resources :consignment_details
 
   match '/dashboard', to: 'dashboard#index'
 
