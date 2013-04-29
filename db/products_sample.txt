@@ -1,0 +1,713 @@
+|    113251|ABRIDOR DE VINHO A-WP002 SATELLITE                           |     19.00
+|     55122|ANTENA 60CM C/LNB SHOWBOX                                    |     16.00
+|     80535|ANTENA 75CM C/LNB                                            |     22.00
+|    112362|ANTENA DIGITAL VHF/UHF INOVIA DVB-T HD-027                   |      6.00
+|     89220|AQUECEDOR NSB-100H-1030 ~~PROMOCAO~~                         |     40.00
+|    122880|AR-FREE QUENTE-FRIO 12000 BTU/60HZ                           |    301.00
+|     70714|AR-GREE QUENTE FRIO 12000 BTU/60HZ                           |    341.00
+|    120888|BALANCA DIGITAL A-WS005 SATELLITE                            |     15.00
+|     99905|BALANCA DIGITAL A-WS008 SATELLITE                            |     16.00
+|    117010|CABO COAXIAL 750NS RG6 BRANCO 100MTS                         |     19.00
+|     26961|CABO FORCA SATA ***                                          |      2.00
+|     96441|CABO HDMI  2 M 1.3 AL-12                                     |      5.00
+|    113756|CABO HDMI  2 M 1.4 AL-32                                     |     10.00
+|    113767|CABO HDMI  2 M 1.4 AL-42                                     |      8.00
+|    101125|CABO HDMI  2 M AL-22 3D                                      |      5.00
+|    113778|CABO HDMI  2 M HDMI P/ MICRO HDMI AL-52                      |      7.00
+|    113789|CABO HDMI  2 M HDMI P/ MINI  HDM1 AL-62                      |      7.00
+|       481|CABO HDMI  3 M 1.3 AL-13                                     |      6.00
+|    113790|CABO HDMI  3 M 1.4 AL-33                                     |     11.00
+|    101114|CABO HDMI  3 M AL-23 3D                                      |      6.00
+|    113745|CABO HDMI 15 M 1.4 AL-215                                    |     30.00
+|     50050|CABO IMPRESSORA USB  1.8 M  2.0                              |      2.00
+|    106714|CABO VGA  1.8 M ***                                          |      8.00
+|     74795|CALCULADORA HP 12C GOLD PORTUGUES                            |     60.00
+|     38336|CAMERA WEBCAM INOVIA RCW- 100 WHITE~PROMOCAO~                |      5.00
+|     37660|CAMERA WEBCAM INOVIA RCW- 300 WHITE~PROMOCAO~                |      6.00
+|     41970|CAMERA WEBCAM INOVIA RCW-1000 XCAM SILVER~PROMOCAO           |      6.00
+|    121485|CAMERA WEBCAM KLIP 2100 KDC580 2.0 MEGAPIXELES               |     21.00
+|     99210|CAMERA WEBCAM SATELLITE WB-536                               |      7.00
+|     69834|CAMERA WEBCAM SATELLITE WB-538 5.0 (40/20                    |      7.00
+|     69823|CAMERA WEBCAM SATELLITE WB-C10(40/20)                        |      8.00
+|     50980|CAMERA WEBCAM SATELLITE WB-C12B 2.0M P                       |     13.00
+|     88677|CAMERA WEBCAM SATELLITE WB-C21 5.0                           |     14.00
+|     90378|CAMERA WEBCAM SATELLITE WB-C22 5.0                           |      9.00
+|     90389|CAMERA WEBCAM SATELLITE WB-C23A                              |      9.00
+|     96924|CAMERA WEBCAM SATELLITE WB-C24                               |      7.00
+|     96935|CAMERA WEBCAM SATELLITE WB-C25                               |      7.00
+|     99433|CAMERA WEBCAM SATELLITE WB-C26                               |      8.00
+|     99444|CAMERA WEBCAM SATELLITE WB-C27                               |     11.00
+|    109122|CAMERA WEBCAM SATELLITE WB-C29                               |      9.00
+|    109133|CAMERA WEBCAM SATELLITE WB-C30A PRETA                        |      9.00
+|    109144|CAMERA WEBCAM SATELLITE WB-C30R VERMELHA                     |      9.00
+|    124679|CAPA IPAD   10" LEA THERETTE KLIP                            |     24.00
+|    115613|CART EPSON L800 YELLOW                                       |     12.00
+|      9828|CART HP  15 BLACK 6615D                                      |     31.00
+|     76608|CART HP  22 COLOR                                            |     20.00
+|     15904|CART HP  49 COLOR 51649A                                     |     33.00
+|     19706|CART HP  56 PRETO C6656                                      |     23.00
+|     74481|CART HP  60 BLACK                                            |     15.00
+|    106725|CART HP  61 BLACK                                            |     19.00
+|    106736|CART HP  61 COLOR                                            |     24.00
+|    101226|CART HP 122 BLACK                                            |     14.00
+|     98028|CART HP 122 COLOR                                            |     16.00
+|     86430|CCTV CAM ST- 518   1/3" SONY CCD                             |     65.00
+|     96788|CCTV CAM ST- 7016  1/3" SONY CCD NTSC                        |     33.00
+|     86440|CCTV CAM ST- PT61Z 1/3" SONY CCD                             |     85.00
+|     86372|CCTV CAM ST- R778 SONY SUPER HAD CCD2 3.6MM                  |     30.00
+|     96834|CCTV CAM ST-M855 1/3" SONY CCD                               |     29.00
+|     96856|CCTV DVR 04CH ST-7004                                        |     68.00
+|    109491|CCTV DVR 08CH INTERNET USB DENPA ***                         |    125.00
+|     91627|CCTV FONTE 12V 1A                                            |      4.50
+|     88230|CCTV PLACA  4CH ST-9004E                                     |     27.00
+|     88218|CCTV PLACA 16CH GV-800 V8.3 ***                              |     49.00
+|    118368|CCTV PLACA AV-1004                                           |     12.00
+|     45042|CD GRAVADOR COMBO LG GCC-H23N  *BRANCO                       |     14.00
+|    126402|CD GRAVADOR DVD LG BLU-RAY WH14NS40 PRETO                    |     78.00
+|    124018|CD GRAVADOR DVD LG GH24NS95 SATA PRETO                       |     19.00
+|     98623|CD GRAVADOR DVD LG GP30NB20 EXT.PRETO                        |     40.00
+|    125254|CD GRAVADOR DVD LG GP30NB30 EXT.PRETO                        |     38.00
+|    120025|CD GRAVADOR DVD PIONEER 220LBK SATA PRETO  CD                |     26.00
+|    124892|CELULAR GENESIS GP-501S ANDROID/GPS PRETO                    |    145.00
+|    122701|CELULAR GENESIS SK S-150 3B/1CHIP/2CAM/GPS/3G BRAN           |    122.00
+|     34354|COOLER CPU  775 P4 3.2GHZ INTEL ORIG BASE COBRE              |      9.00
+|     94720|COOLER CPU 1155 I3                                           |     10.00
+|    106870|COOLER CPU 1155 I5                                           |     10.00
+|    106860|COOLER CPU 1155 I7                                           |     14.00
+|    109660|COOLER GAB 80X80 80MM THERMAL                                |      3.00
+|    109638|COOLER GAB CASE 2FAN 1357 80MM                               |     13.00
+|    109627|COOLER GAB EXAUSTOR X-BLOWER 1869                            |     17.00
+|    109649|COOLER GAB NEON AZUL 12CM A2018                              |     17.00
+|    109650|COOLER GAB NEON AZUL 9CM A2017                               |     17.00
+|     98208|CPU AMD AM3 ATHLON II X2 270 3.4GHZ 2MB                      |     57.00
+|     90984|CPU AMD AM3 ATHLON II X3 455 3.3GHZ 1.5MB                    |     74.00
+|    104790|CPU AMD AM3 FX-4100 X4 3.6GHZ/12MB                           |    111.00
+|    126390|CPU AMD AM3 FX-4130 X4 3.8GHZ/12MB                           |    120.00
+|    105915|CPU AMD AM3 FX-8120 X8 3.1GHZ/16MB BLACK EDITION             |    165.00
+|    110472|CPU AMD AM3 FX-8150 BX 3.6GHZ/16MB                           |    196.00
+|    122251|CPU AMD AM3 FX-8320 BX 3.5GHZ/ 8MB                           |    195.00
+|     91919|CPU AMD AM3 SEMPRON 145 2.8GHZ 1MB BOX                       |     34.00
+|    107366|CPU AMD FMI APU A4 3300 DC 2.5GHZ 1MB BOX                    |     45.00
+|    123555|CPU INTEL 1155 G1610CEL  DCORE 2.6GHZ/2MB                    |     51.00
+|    125412|CPU INTEL 1155 G460 CEL  DCORE 1.8GHZ 1.5M                   |     42.00
+|    118537|CPU INTEL 1155 G550 CEL  DCORE 2.6GHZ/2MB                    |     48.00
+|    119022|CPU INTEL 1155 G645 DUAL CORE 2.9GHZ/3MB/65W                 |     68.00
+|    116175|CPU INTEL 1155 G850 DUAL CORE 2.9GHZ/3MB/65W                 |     75.00
+|     88633|CPU INTEL 1155 I3-2100  CORE 3.1GHZ 3MB                      |    124.00
+|     94944|CPU INTEL 1155 I3-2120  CORE 3.3GHZ 3MB                      |    125.00
+|    116792|CPU INTEL 1155 I3-3220  CORE 3.3GHZ 3MB                      |    128.00
+|     99725|CPU INTEL 1155 I5-2320  CORE 3.0GHZ 6MB                      |    201.00
+|     78553|CPU INTEL 1155 I5-2500  CORE 3.3GHZ 6MB                      |    219.00
+|     88464|CPU INTEL 1155 I5-2500K CORE 3.3GHZ 6MB                      |    229.00
+|    118491|CPU INTEL 1155 I5-3330  CORE 3.0GHZ 6MB                      |    191.00
+|    111429|CPU INTEL 1155 I5-3450  CORE 3.1GHZ 6MB                      |    198.00
+|    121329|CPU INTEL 1155 I5-3470  CORE 3.2GHZ 6MB                      |    208.00
+|    120610|CPU INTEL 1155 I5-3570  CORE 3.4GHZ 6MB                      |    220.00
+|    115152|CPU INTEL 1155 I5-3570K CORE 3.4GHZ 6MB                      |    245.00
+|    113712|CPU INTEL 1155 I7-3770  CORE 3.4GHZ 8MB                      |    317.00
+|    111227|CPU INTEL 1155 I7-3770K CORE 3.5GHZ 8MB                      |    350.00
+|      1517|DRIVE 1.44MB BRANCO                                          |      1.00
+|     34892|DRIVE 1.44MB BRANCO REC. ***                                 |      1.00
+|     12249|DRIVE 1.44MB PRETO                                           |      1.00
+|    114028|DVD PLAYER BLU-RAY LG BP120                                  |     97.00
+|    105667|DVD PLAYER LG DV692 FHD/USB/DVIX/MULTI HDMI                  |     43.00
+|     86260|DVD PLAYER SATELLITE 051                                     |     21.00
+|    125388|DVD PLAYER SATELLITE 057                                     |     27.00
+|     92460|DVD PLAYER SATELLITE 058 USB/SD                              |     24.00
+|     70916|DVD PLAYER SATELLITE 059                                     |     24.00
+|    105678|DVD PORT 7" LG DP671A TV/USB/DUALPHONE                       |    100.00
+|     99859|DVD PORT 7" SATELLITE P71 TV/USB/SD/MMC                      |     55.00
+|     98555|DVD PORT 9" SATELLITE P91 TV/USB/SD/MMC                      |     68.00
+|    120541|DVD PORT 9" SATELLITE P92 TV/USB/SD/MMC                      |     72.00
+|      1572|ESTABILIZADOR SATELLITE A-VR3 1000W BIVOLT                   |     32.00
+|     80008|ESTABILIZADOR SATELLITE A-VR3 1500W BIVOLT                   |     33.00
+|     80019|ESTABILIZADOR SATELLITE A-VR3 2000W BIVOLT                   |     38.00
+|     85450|FAX MODEM 3G INOVIA DESB.-PRETO --PROMOCAO--                 |     18.00
+|    120091|FAX MODEM 3G TP-LINK MA180 USB                               |     33.00
+|     40261|FAX MODEM ADSL ROUTER  D-LINK 500B                           |     17.00
+|     64122|FAX MODEM ADSL ROUTER TP-LINK TD-8816 54MBPS                 |     11.00
+|     72457|FAX MODEM ADSL ROUTER TP-LINK TD-8817 USB 54MBP***           |     13.00
+|     95181|FILTRO LINHA  5TM SATELLITE A-RO7 PRETO 2S/USB               |      6.00
+|     95160|FILTRO LINHA  6TM SATELLITE A-RO3 PRETO                      |      4.00
+|     95170|FILTRO LINHA  6TM SATELLITE A-RO4 PRETO NOVO PADRA           |      5.00
+|      1594|FILTRO LINHA  6TM SATELLITE A-RO5 PRETO                      |      5.00
+|    105645|FONE BLUETOOTH AE-22B SATELLITE                              |     15.00
+|    124804|FONE DE OUVIDO AE-661 SATELLITE                              |      4.00
+|    117075|FONE DE OUVIDO AE-840 SATELLITE MP3 SPORT                    |     15.00
+|    117086|FONE DE OUVIDO AE-850 SATELLITE MP3 SPORT                    |     18.00
+|     80232|FONTE  300W REAL PIXXO                                       |     18.00
+|     25804|FONTE  400W REAL SATELLITE                                   |     35.00
+|     26850|FONTE  550W MTEK 24/20PINO/12CM                              |     19.00
+|     34523|FONTE  650W MTEK                                             |     25.00
+|    114118|FONTE  750W REAL XFX EDITION SEMI MODULAR SILVER             |    141.00
+|    113510|FONTE  800W REAL PIXXO PRETO PE-800S                         |    132.00
+|    103283|FONTE 1000W REAL PIXXO PRETO                                 |    161.00
+|     46289|FONTE 1000W REAL SATELLITE SL-X1000 14CM                     |    127.00
+|     75886|FONTE NB UNIVERSAL (ADAPTADOR PARA CARRO)                    |     20.00
+|    126255|FRITADEIRA HOSS (AIR FRYER) BRANCO 110V                      |    160.00
+|    126277|FRITADEIRA HOSS (AIR FRYER) BRANCO 220V                      |    160.00
+|    126288|FRITADEIRA HOSS (AIR FRYER) PRETO 220V                       |    160.00
+|     25152|GAB 3B SATELLITE X-BLADE 511P PRETO                          |     56.00
+|    111787|GAB GAMMER A301 SATELLITE S/FONTE                            |     46.00
+|    116401|GAB KIT 2B DR.HANK 3E22 ABNT                                 |     38.00
+|    124264|GAB KIT 2B DR.HANK 3E22 ESPANHOL                             |     39.00
+|     99286|GAB KIT 2B SATELLITE K623 ABNT PRETO                         |     36.00
+|     99297|GAB KIT 2B SATELLITE K623 ESPANHOL PRETO                     |     36.00
+|     50587|GAB KIT 4B MTEK 7505 ESPANHOL PRETO/PRATA                    |     41.00
+|     55357|GAB KIT 4B MTEK 7506 ABNT PRETO/PRATA                        |     41.00
+|     51061|GAB KIT 4B MTEK 7506 ESPANHOL PRETO/PRATA                    |     41.00
+|     53669|GAB KIT 4B MTEK 7511 ABNT PRETO/PRATA                        |     40.00
+|    107917|GAB KIT 4B MTEK 7511 ESPANHOL PRETO/PRATA                    |     40.00
+|     60140|GAB KIT 4B MTEK 7518 ABNT PRETO                              |     40.00
+|     60130|GAB KIT 4B MTEK 7518 ESPANHOL+MIC PRETO                      |     41.00
+|     88093|GAB KIT 4B MTEK HS01 ABNT PRETO PIANO                        |     41.00
+|     88106|GAB KIT 4B MTEK HS01 ESPANHOL PRETO PIANO                    |     41.00
+|     89173|GAB KIT 4B MTEK HS03 ABNT PRETO PIANO                        |     41.00
+|    126648|GAB KIT 4B MTEK HS07 ABNT PRETO PIANO                        |     41.00
+|     89184|GAB KIT 4B MTEK HS07 ESPANHOL PRETO PIANO                    |     41.00
+|     89195|GAB KIT 4B MTEK HS09 ABNT PRETO PIANO                        |     41.00
+|    119257|GAB KIT 4B MTEK HS09 ESPANHOL PRETO PIANO                    |     42.00
+|     59429|GAB KIT 4B PIXXO Y658 PRETO KT-Y658C/L                       |     60.00
+|     25780|GAB KIT 4B SATELLITE K311 ABNT ACRILICO                      |     68.00
+|     40531|GAB KIT 4B SATELLITE K311 ESPANHOL ACRILICO                  |     69.00
+|     54277|GAB KIT 4B SATELLITE K631 ABNT PRETO                         |     37.00
+|     56077|GAB KIT 4B SATELLITE K631 ESPANHOL PRETO                     |     34.00
+|     63446|GAB KIT 4B SATELLITE K636 ABNT                               |     37.00
+|     63457|GAB KIT 4B SATELLITE K636 ESPANHOL                           |     37.00
+|    107860|GAVETA EX HD 2.5 MTEK EN256K SATA PRETA                      |     10.00
+|     40889|GAVETA EX HD 2.5 MTEK EN3251K 3.0 SATA PRETA                 |     15.00
+|     59743|GAVETA EX HD 2.5 SATELLITE AX-227 PRATA SATA                 |      9.00
+|     59732|GAVETA EX HD 2.5 SATELLITE AX-227 PRETA SATA                 |      9.00
+|    110720|GAVETA EX HD 2.5 SATELLITE AX-230 PRETA SATA                 |     18.00
+|    124376|GAVETA EX HD 3.5 MTEK EN3351S SATA USB3                      |     28.00
+|    107871|GAVETA EX HD 3.5 MTEK EN351K SATA                            |     16.00
+|     57550|GAVETA EX HD 3.5 SATELLITE AX-324 SATA PRETA                 |     27.00
+|    123140|GAVETA EX HD 3.5 SATELLITE AX-325 SATA PRETA                 |     15.00
+|     96015|GAVETA EX HD 3.5 SATELLITE AX-330 SATA PRETA                 |     27.00
+|     69812|GPS SATELLITE 4.3 A-GD47                                     |     46.00
+|     79431|GPS SATELLITE 5.0 A-GD55 2GB/BT/HDTV PRETO                   |     67.00
+|     99860|GPS SATELLITE 5.0 A-GD56 TV/FILM/4GB/BLUTOOTH                |     74.00
+|    125210|HD EXT. USB 2.5    500GB ADATA AHV610 PRE/AZ 3.0             |     67.00
+|    115815|HD EXT. USB 2.5    500GB SAMSUNG M3 PRETO                    |     58.00
+|    125221|HD EXT. USB 2.5   1TB ADATA AHV610 PRET/AZUL 3.0             |     87.00
+|    113295|HD EXT. USB 2.5   1TB SAMSUNG M3 PRETO 3.0                   |     79.00
+|    105948|HD EXT. USB 3.5 2.0TB SEAGATE EXPANSION PRETO                |    111.00
+|    115185|HD EXT. USB 3.5 3.0TB SEAGATE EXPANSION                      |    144.00
+|     41352|HD SATA   500GB SAMSUNG 7200RPM 16MB                         |     56.00
+|     38593|HD SATA   500GB SEAGATE 7200RPM 16MB SATA3                   |     56.00
+|     44928|HD SATA   750GB SEAGATE 7200RPM/16MB                         |     72.00
+|     89219|HD SATA 1.0TB SEAGATE 7200RPM 64MB SATA3 SLIN                |     71.00
+|    103420|HD SATA 2.0TB SEAGATE 7200RPM 64MB SATA3                     |     98.00
+|    103059|HD SATA 3.0TB SEAGATE 7200RPM 64MB SATA3                     |    138.00
+|    124624|HD SSD  120GB SANDISK SATA3                                  |    117.00
+|    126334|HD SSD  128GB GS FORCE 2.5 SATA3 CORSAIR                     |    148.00
+|    125658|HD SSD  250GB SAMSUNG SATA3 MZ 7TD 250BW                     |    204.00
+|     48820|HD-NOTEBOOK   320GB SAMSUNG SATA 5400 8MB                    |     47.00
+|     51443|HD-NOTEBOOK   500GB SAMSUNG SATA 5400 8MB                    |     54.00
+|     95686|HD-NOTEBOOK   500GB SEAGATE SATA 5400 8MB                    |     54.00
+|    101136|HD-NOTEBOOK   500GB TOSHIBA SATA 5400                        |     54.00
+|     95429|HD-NOTEBOOK 1.0TB SAMSUNG SATA 5400 8MB                      |     75.00
+|    125669|HD-NOTEBOOK 1.0TB TOSHIBA SATA 5400 8MB                      |     74.00
+|    113374|HOME THEATER BLU-RAY 3D HB806SV LG                           |    350.00
+|    113363|HOME THEATER DH6220S LG                                      |    260.00
+|     82480|HOME THEATER HT806ST LG                                      |    230.00
+|     85710|IMP 40 COL.EPSON TMU-220PA-153 C/KIT PARALELA                |    270.00
+|    120899|IMP 40 COL.EPSON TMU-220PD-653 S/KIT SERIAL BIVOLT           |    205.00
+|     84124|IMP EPSON MATRICIAL LX-300 USB/PAR PRETO 110V                |    186.00
+|     63413|IMP EPSON STYLUS PHOTO T50 IMPRIME CD                        |    170.00
+|     83617|IMP HP DESKJET 1000 PRETO                                    |     38.00
+|    122229|IMP HP DESKJET 3052A IMP/COP/SCAN WIRELESS PRETA             |     69.00
+|    121171|IMP HP DESKJET 3525  IMP/COP/SCAN WIRELESS WIFI              |    103.00
+|     67742|IMP HP DESKJET D2050 IMP/COP/SCAN                            |     58.00
+|    123400|IMP HP DESKJET D2510 IMP/COP/SCAN PRETA                      |     56.00
+|    117334|IMP HP DESKJET D2515 IMP/COP/SCAN PRETA                      |     75.00
+|     94620|IMP HP LASERJET CP1025NW WIRELESS COLOR                      |    228.00
+|     75280|IMP HP LASERJET M1212NF MFP IMP/COP/FAX/SCANNER              |    251.00
+|     83099|IMP HP LASERJET M1536DNF IMP/COP/SCAN/FAX                    |    301.00
+|    117187|IMP HP LASERJET P1606DN C/REDE 110V                          |    191.00
+|     65885|IMP HP OFFICEJET 8600  PRO A4                                |    195.00
+|    104038|IMP HP OFFICEJET K8600 USB A3                                |    245.00
+|     70938|JOYSTICK SATE A-HG540 VIBRATION BLACK JOYPAD                 |      7.00
+|     70927|JOYSTICK SATE A-HG560 VIBRATION BLACK JOYPAD                 |      6.00
+|    102293|JOYSTICK SATE A-HG570 USB                                    |     14.00
+|     80917|JOYSTICK SATE A-HG580 WIRELESS PS2&PC                        |     16.00
+|    111440|JOYSTICK SATE A-HG590 PLAY2/PC NEGRO                         |     18.00
+|     94540|JOYSTICK SATE A-HG610 WIRELESS 2.4 PS2/PC                    |     17.00
+|    117918|JOYSTICK SATE A-HG730 VIBRATION BLACK PS2/PC                 |      9.00
+|     97644|LAMPADA LG LED A19 7.5W                                      |     23.00
+|     97666|LAMPADA LG LED CANDLE 2W                                     |     17.00
+|     97655|LAMPADA LG LED MR16 4.4W                                     |     28.00
+|     86069|LEITOR C.B.BEMATECH CCD BR-310 PS2 PRETO                     |     30.00
+|     56088|LEITOR C.B.BEMATECH CCD BR-310 USB PRETO                     |     31.00
+|    105634|LEITOR C.B.BEMATECH LASER AQUILA-S100 USB PRETO              |     90.00
+|     71579|LEITOR C.B.HONEYWELL MK-7820 USB PRETO                       |    285.00
+|     55491|LEITOR C.B.HONEYWELL MK-9590 USB PRETO                       |    131.00
+|     73996|LEITOR DE MEMORIA MTEK USB2.0-54EM PRETO CR801P              |      6.00
+|    109267|LEITOR DE MEMORIA MTEK USB2.0-54EM PRETO CR805P              |      8.00
+|     74000|LEITOR DE MEMORIA MTEK USB2.0-71EM PRETO CR803P              |      7.00
+|    122341|MALETA NB NET 12" CAPA C/ ZIPER                              |      8.00
+|    109155|MALETA NB SATELLITE A-KP12 10.2" AZUL                        |      7.00
+|    125906|MALETA NB SATELLITE A-KP12 10.2" GRIS                        |      6.00
+|    109166|MALETA NB SATELLITE A-KP12 14.2" PRATA                       |      7.00
+|    109188|MALETA NB SATELLITE A-KP12 15.6" AZUL                        |      8.00
+|    121250|MALETA NB SATELLITE A-KP20 14.1" PRETA                       |     13.00
+|     92224|MALETA NB SATELLITE A-KP20 15.4"                             |     13.00
+|    121968|MALETA NB SATELLITE A-KP30 10.4"                             |      8.00
+|     57359|MALETA NB SATELLITE A-KP40 15.4"                             |     15.00
+|     92628|MALETA NB SATELLITE A-KP40 17"                               |     17.00
+|    109548|MALETA NB SATELLITE A-KP41 15.4"                             |     18.00
+|     92213|MALETA NB SATELLITE A-KP50 15.4"                             |     18.00
+|    124791|MALETA NB SATELLITE A-KP61 14.1"                             |     19.00
+|    109559|MALETA NB SATELLITE A-KP65 15.4"                             |     18.00
+|     59800|MALETA NB SATELLITE MOCHILA A-KP20 10.4"                     |     10.00
+|     78766|MALETA NB SATELLITE MOCHILA A-KP70 15.4"                     |     18.00
+|     98219|MALETA NB SATELLITE MOCHILA A-KP81 15.4"                     |     19.00
+|     98220|MALETA NB SATELLITE MOCHILA A-KP82 15.4"                     |     22.00
+|    121015|MB  775 ASROCK G41M-VS3 R2 S/V/R DDR3                        |     59.00
+|     86866|MB  940 AM3 ASROCK N68-VS3 FX S/V/R DDR3                     |     49.00
+|    126132|MB  940 AM3 ASUS M5A78L-M LX3S/V/R DDR3  OEM                 |     61.00
+|    119640|MB  940 AM3 ECS A780LM-M2 V/R/S/DDR3                         |     44.00
+|    126143|MB 1155 ASUS P8H61-M LX3 R2 S/V/R OEM                        |     60.00
+|    125120|MB 1155 ASUS P8H77-M LE S/V/R                                |    112.00
+|    115523|MB 1155 ASUS P8H77-M PRO                                     |    145.00
+|     95137|MB 1155 INTEL BOXDH61BEB3 LGA                                |     83.00
+|    126637|MB 1155 INTEL BOXDH61BF                                      |     63.00
+|    126659|MB 1155 INTEL BOXDH61DLB3 BOX                                |     81.00
+|    114869|MB 1155 INTEL BOXDH61HO LGA SOM/VGA/REDE                     |     57.00
+|     82289|MB 1155 INTEL BOXDH61WWB3 LGA S/V/R                          |     69.00
+|    126615|MB 1155 INTEL BOXDH77KC                                      |    128.00
+|    125041|MB FM1 ASROCK A55M-HVS V/S/R/HDMI/DDR3                       |     52.00
+|    117525|MB FM1 ASROCK A55M-VS V/S/R/HDMI/DDR3                        |     48.00
+|    118526|MB KIT INTEL +CPU D2500HN ATOM 1.86 S/V/R DDR3 BOX           |     74.00
+|     14576|MEMORIA DDR 128MB PC333/2700 SAMSUNG                         |      0.50
+|     43848|MEMORIA DDR-1GB PC400/3200 MARKVISION                        |     21.00
+|     39190|MEMORIA DDR2 1GB 400MHZ ECC REG SAMSUNG                      |     17.00
+|     46638|MEMORIA DDR2 2GB 667MHZ MARKVISION                           |     31.00
+|     46851|MEMORIA DDR2 2GB 800MHZ MARKVISION                           |     30.00
+|    125322|MEMORIA DDR3  2GB 1333MHZ ADATA                              |     18.00
+|    122183|MEMORIA DDR3  2GB 1333MHZ CORSAIR DOMINATOR                  |     18.00
+|     56279|MEMORIA DDR3  2GB 1333MHZ KINGSTON                           |     20.00
+|     54413|MEMORIA DDR3  2GB 1333MHZ MARKVISION                         |     18.00
+|     77148|MEMORIA DDR3  2GB 1600MHZ CORSAIR DOMINATOR DISSIP           |     24.00
+|    125298|MEMORIA DDR3  4GB 1333MHZ ADATA                              |     31.00
+|     83986|MEMORIA DDR3  4GB 1333MHZ CORSAIR DOMINATOR                  |     37.00
+|     70174|MEMORIA DDR3  4GB 1333MHZ CORSAIR XMS3 C/DIS (1P)            |     38.00
+|     69217|MEMORIA DDR3  4GB 1333MHZ KINGSTON                           |     33.00
+|     73111|MEMORIA DDR3  4GB 1333MHZ MARKVISION                         |     30.00
+|     85922|MEMORIA DDR3  4GB 1600MHZ CORSAIR DOMINATOR                  |     49.00
+|    114309|MEMORIA DDR3  4GB 1866MHZ CORSAIR PLATINIUM DOMIN            |     57.00
+|     85898|MEMORIA DDR3  4GB 1866MHZ CORSAIR VENGEANCE                  |     45.00
+|     85911|MEMORIA DDR3  4GB 2000MHZ CORSAIR XMS3 C/DISIP               |     42.00
+|    114310|MEMORIA DDR3  4GB 2133MHZ CORSAIR PLATINIUM DOMIN            |     82.00
+|    121340|MEMORIA DDR3  4GB 2133MHZ CORSAIR VENGEANCE                  |     43.00
+|    110350|MEMORIA DDR3  8GB 1333MHZ KINGSTON                           |     61.00
+|    103531|MEMORIA DDR3  8GB 1333MHZ MARKVISION                         |     54.00
+|    114320|MEMORIA DDR3  8GB 1600MHZ CORSAIR PLATINIUM DOMIN            |     96.00
+|    121330|MEMORIA DDR3  8GB 1866MHZ CORSAIR VENGEANCE                  |     77.00
+|     74369|MEMORIA-NOTEBOOK DDR3 2GB 1333MHZ MARKVISION                 |     19.00
+|     78206|MEMORIA-NOTEBOOK DDR3 4GB 1333MHZ KINGSTON                   |     33.00
+|     78700|MEMORIA-NOTEBOOK DDR3 4GB 1333MHZ MARKVISION                 |     30.00
+|     41587|MICROFONE 2EM 1 SATELLITE AE-216                             |      3.00
+|     27121|MICROFONE 2EM 1 SATELLITE AE-218CS                           |      4.00
+|    116636|MICROFONE 2EM 1 SATELLITE AE-260                             |      7.00
+|     27143|MICROFONE 2EM 1 SATELLITE AE-321                             |      6.00
+|     39348|MICROFONE 2EM 1 SATELLITE AE-324                             |     20.00
+|     27110|MICROFONE 2EM 1 SATELLITE AE-335                             |      6.50
+|     56852|MICROFONE 2EM 1 SATELLITE AE-337                             |      6.00
+|     80030|MICROFONE 2EM 1 SATELLITE AE-338WY BRANCO(20)                |      9.00
+|     80020|MICROFONE 2EM 1 SATELLITE AE-339P PRETO(20)                  |     11.00
+|     80041|MICROFONE 2EM 1 SATELLITE AE-342 PRETO(20)                   |      8.00
+|    122778|MICROFONE 2EM 1 SATELLITE AE-345 VERMELHO                    |     11.00
+|     61680|MICROFONE 2EM 1 SATELLITE AE-668                             |      5.00
+|     61679|MICROFONE 2EM 1 SATELLITE AE-669                             |      5.00
+|    104756|MICROFONE 2EM 1 SATELLITE AE-820 USB                         |     12.00
+|     29718|MICROFONE 2EM 1 SATELLITE AE-880                             |     11.00
+|     29740|MICROFONE 2EM 1 SATELLITE AE-980                             |      7.00
+|    121452|MICROFONE KLIP FRANTIC BEATS 810A                            |     22.00
+|    113565|MON. LCD TV 32" AOC L32W134 HD/BLACK/PIANO                   |    270.00
+|    112610|MON. LED 15.6"  AOC E1660SW WIDE PRETO                       |     76.00
+|    111945|MON. LED 15.6"  AOC USB E1649FWU BLACK/PIANO PORT            |    113.00
+|     89263|MON. LED 18.5"  DR.HANK LI-E951 SLIM WIDE PRETO              |     86.00
+|    106826|MON. LED 18.5"  LG E1942C BN PRETO                           |     97.00
+|    111508|MON. LED 19"    SAMSUNG S19A100N WIDE PRETO                  |    102.00
+|    124062|MON. LED 20"    AOC E2050S BLACK WIDE                        |    117.00
+|     88060|MON. LED 21.5"  AOC E2243FWK SLIM PIANO WIDE                 |    143.00
+|    126053|MON. LED 22"    AOC E2261FWH ULTRA SLIM HDMI BLACK           |    157.00
+|    126154|MON. LED 22"    LG E2242C-PN F HD                            |    140.00
+|    123992|MON. LED 22"    LG IPS224V FHD HDMI                          |    157.00
+|    126064|MON. LED 24"    AOC E2461FWH ULTRA SLIM HDMI BLACK           |    187.00
+|    124286|MON. LED 24"    BENQ GLA2405A WIDE PRETO                     |    183.00
+|     98948|MON. LED TV 19" SATELLITE AT-19                              |    150.00
+|     77912|MON. LED TV 22" FUJILINK FU2220                              |    132.00
+|    108705|MON. LED TV 22" SATELLITE AT-22M2                            |    170.00
+|    114746|MON. LED TV 23" PHILIPS SLIN/FHD BLACK C/CONVER              |    206.00
+|    111495|MON. LED TV 24" SATELLITE AT- 24E                            |    183.00
+|    117211|MON. LED TV 32" AOC LE32W234D HD USB 3 HDMI                  |    285.00
+|    124275|MON. LED TV 32" AOC LE32W254D HDMI USB CONVERSOR             |    301.00
+|    108738|MON. LED TV 32" SATELLITE AT-32E                             |    256.00
+|    111340|MON. LED TV 42" AOC LE42H1542 HDMI/USB/FHD-DIGITAL           |    550.00
+|     15310|MOUSE PS2 GENIUS POWERSCROLL                                 |      2.00
+|     51981|MOUSE PS2 LG 3D-520 WHITE                                    |      4.50
+|     63086|MOUSE PS2 SATELLITE A-33P PRETO                              |      4.00
+|     11046|MOUSE PS2 SATELLITE A-5P PRETO                               |      6.00
+|     21339|MOUSE PS2 SATELLITE A-5S SILVER                              |      6.00
+|    124680|MOUSE S.FIO KLIP KMO-365C CHARCOAL ELLIPSE                   |     16.00
+|    124398|MOUSE S.FIO MTEK B252B PRETO 2.4GHZ                          |     14.00
+|    124400|MOUSE S.FIO MTEK B258BR PRETO                                |     15.00
+|    124387|MOUSE S.FIO MTEK B313B PRETO                                 |     14.00
+|    105195|MOUSE S.FIO SATELLITE A-17G 2.4 PINK                         |     11.00
+|    103015|MOUSE S.FIO SATELLITE A-17G USB PRETO                        |     11.00
+|    105208|MOUSE S.FIO SATELLITE A-17GA 2.4GZ AZUL                      |     10.00
+|     42195|MOUSE S.FIO SATELLITE A-26P USB PRETO                        |      9.00
+|     61400|MOUSE S.FIO SATELLITE A-35G USB                              |     10.00
+|    105184|MOUSE S.FIO SATELLITE A-36G USB 2,4 PRETO                    |     11.00
+|     99455|MOUSE S.FIO SATELLITE A-37GO USB LARANJA                     |     11.00
+|    102519|MOUSE S.FIO SATELLITE A-47G USB  PRETO                       |     12.00
+|    105162|MOUSE S.FIO SATELLITE A-47GR 2.4GHZ VERMELHO                 |     13.00
+|    123151|MOUSE S.FIO SATELLITE A-49G 2.4GHZ PRETO                     |     12.00
+|    123130|MOUSE S.FIO SATELLITE A-49GW 2.4GHZ BRANCO                   |     12.00
+|    126020|MOUSE S.FIO SATELLITE A-66G CINZA 7BOTOES                    |     14.00
+|    126031|MOUSE S.FIO SATELLITE A-66G VERMELHO 7BOTOES                 |     14.00
+|     52007|MOUSE USB LG CM-900 BLACK                                    |     25.00
+|     52040|MOUSE USB LG XM-260 3D WHITE                                 |      6.00
+|    109873|MOUSE USB MTEK B130 PRATA                                    |      7.00
+|     22116|MOUSE USB MTEK B130 PRETO                                    |      6.00
+|    125871|MOUSE USB MTEK B197B MINI PRETO                              |      7.00
+|    124411|MOUSE USB MTEK B238BR MINI PRETO RETRATIL                    |      7.00
+|    122857|MOUSE USB MTEK B301BR MINI                                   |      8.00
+|     91717|MOUSE USB MTEK MINI LASERBLUETOOTH2.4GHZ BLACK 5+1           |     17.00
+|    125893|MOUSE USB SATELLITE A-22P PRETO                              |      6.00
+|    123443|MOUSE USB SATELLITE A-30P GAMMING 7B PRETO                   |     12.00
+|     86271|MOUSE USB SATELLITE A-33  PRETO                              |      4.00
+|    114992|MOUSE USB SATELLITE A-36P PRETO                              |      4.00
+|    103026|MOUSE USB SATELLITE A-37Y AMARELO                            |      7.00
+|     63839|MOUSE USB SATELLITE A-39P PRETO                              |      5.00
+|    102508|MOUSE USB SATELLITE A-50P PRETO                              |      9.00
+|    105252|MOUSE USB SATELLITE A-50R VERMELHO                           |      9.00
+|    105220|MOUSE USB SATELLITE A-66  PRETO                              |      9.00
+|    105241|MOUSE USB SATELLITE A-66R VERMELHO                           |     11.00
+|    102574|MOUSE USB SATELLITE A-F4 CAR AMARELO                         |      8.00
+|     78744|MOUSE USB SATELLITE A-F4 CAR PRETO (60/20)                   |      8.00
+|     78733|MOUSE USB SATELLITE A-F4 CAR VERMELHO (60/20)                |      8.00
+|     22643|MOUSE USB SATELLITE MINI A11P PRETO                          |     10.00
+|    123612|MOUSE USB SATELLITE MINI A11S SILVER                         |      9.00
+|     25297|MOUSE USB SATELLITE MINI A11S VERMELHO                       |      8.00
+|     33465|MOUSE USB SATELLITE MINI A15  PRETO                          |      7.00
+|     93089|MOUSE USB SATELLITE MINI A15 SILVER                          |      8.00
+|    108244|MOUSE USB SATELLITE MINI A9P PRETO                           |      7.00
+|     65538|MOUSE USB SATELLITE MINI A9S SILVER                          |      6.00
+|     70108|MOUSE USB/PS2 SATELLITE A-13 MINI PRETO                      |      6.00
+|     31665|MOUSE USB/PS2 SATELLITE A-21P PRETO                          |      7.00
+|     31654|MOUSE USB/PS2 SATELLITE A-21S PRATA                          |      7.00
+|    105263|MOUSE USB/PS2 SATELLITE A-28L                                |      9.00
+|     66900|MOUSE USB/PS2 SATELLITE A-31 MINI PRETO                      |      9.00
+|    119730|NAPOLI 7939 DVD/2DIN/USB/SD DVD-TV BT                        |    117.00
+|    119707|NAPOLI 7995 DVD/2DI/GPS/USB/SD/TV DVD-BT                     |    187.00
+|    119942|NB ACER 4560  SB409 A4-3300-1.9/4/500/RW/WC/14/AMD           |    430.00
+|    125860|NB ACER 4752  6307 I5-2.5/4/750G/RW/WEB/14"/W7               |    610.00
+|    122420|NB ACER AOD725  0478  AMD C70 1.0/4/500/11.6/C LIN           |    336.00
+|    116423|NB ACER E1-421  0409  AMD-1.3/2/500/RW/WEB/14"               |    350.00
+|    121924|NB ACER E1-421  0409  AMD-1.3/4/500/RW/WEB/14"               |    360.00
+|    111686|NB ACER E1-421  3686  AMD-1.6/4/500/RW/WEB/14" NEW           |    380.00
+|    114960|NB ACER E1-431  2845  CEL-1.7/2/500/RW/WEB/14"/W7            |    345.00
+|    114970|NB ACER E1-431  2845  CEL-1.7/4/500/RW/WEB/14"/W7            |    360.00
+|    117097|NB ACER E1-471  6867  I3-2.4/4/500/RW/WEB/14"                |    485.00
+|    125680|NB ACER E1-571  6451  I3-2.3/4/500/RW/W/15.6/LINUX           |    485.00
+|    125456|NB ACER E1-571  6680  I3-2.4/4/500/RW/WEB/15.6"/W8           |    491.00
+|    125502|NB ACER E1-571  6801  I3-2.2/4/500/RW/WEB/15.6"/W8           |    515.00
+|    116221|NB ACER V3-571  6643 I5-2.5/4/500/RW/WEB/15.6/W7**           |    580.00
+|    125131|NB ACER V3-771  6879 I5-2.6/4/750/RW/WEB/17"                 |    740.00
+|    123803|NB HP  650 I3-2.2/4/500/RW/WEB/15.6"                         |    490.00
+|    120484|NB HP PROBOOK 4540S I3-3110M-2.4/500/15.6"/                  |    580.00
+|    124029|NB SONY  SVE-14122CX/B I3-2.4/4/500/RW/14/CA                 |    636.00
+|    124119|NB SONY  SVE-14132CX/B I3-2.5/4/500/RW/14/CA                 |    641.00
+|    124108|NB SONY  SVE-14132CX/W I3-2.5/4/500/RW/14/CA                 |    650.00
+|    124030|NB SONY  SVE-14135CX/B I5-2.6/6/1TB/WEB/14/W8                |    745.00
+|    124095|NB SONY  SVE-14135CX/W I5-2.6/6/1TB/C/14/W8                  |    746.00
+|    123511|NB SONY  SVE-15126CX/P I5-2.5/6G/750/DW/15.6/C               |    696.00
+|    114107|PANELA ELETRICA PRESSAO SC-100A 220V                         |     77.00
+|    114094|PANELA ELETRICA PRESSAO SC-100F 110V                         |     77.00
+|    125704|PEN DRIVE  4GB ADATA  AZUL                                   |      6.00
+|    121777|PEN DRIVE  8GB KINGSTON DT101  G2  VERMELHO                  |      7.00
+|    125333|PEN DRIVE 16GB ADATA PRETO VERMELHO                          |     12.00
+|    126413|PEN DRIVE 16GB KINGSTON DT109 PRETO                          |     11.00
+|    126424|PEN DRIVE 16GB KINGSTON DT109 VERMELHO                       |     11.00
+|    113701|PEN DRIVE 32GB SANDISK MICRO Z50                             |     19.00
+|     33746|PLACA ADAP PCI FIREWIRE 1394                                 |      7.00
+|     16657|PLACA SOM CREATIVE 5.1 SBO680 BOX                            |     12.00
+|     11775|PLACA SOM CRISTAL 4PORT                                      |      6.00
+|     62311|PLACA SOM ENCORE 5.1 CH ENM232  6VIAS                        |      8.00
+|     79880|PLAY PS2 CONTROLE ORIGINAL                                   |     17.00
+|     80434|PLAY PS3 CONTROLE SEM FIO ORIGINAL                           |     42.00
+|     96239|PORTA RETRATO INOVIA ID-070D9 C/CONTROLE                     |     25.00
+|    121419|PRESENTER KLIP WINTEGRATED LASER KPS 010                     |     31.00
+|     95216|PRESENTER LOGITECH R-400 CORDLESS 2.4                        |     45.00
+|     92773|PRESENTER LOGITECH R-800 PROFESSIONAL/WIRELESS ***           |     88.00
+|     97813|PRESENTER SATELLITE LR12R                                    |     30.00
+|    107276|PRESENTER SATELLITE LR16R                                    |     23.00
+|     99770|PRESENTER TARGUS REMOTE AMP016US-50 LASER                    |     26.00
+|     67316|PRESENTER TARGUS REMOTE AMP09US-53 MULTIMEDIA                |     37.00
+|     67327|PRESENTER TARGUS REMOTE AMP13US LASER                        |     28.00
+|    111541|PRINT SERVER ENCORE ENPS-2012 2XUSB/1PA                      |     53.00
+|    111530|PRINT SERVER ENCORE ENPSWI-2012 2XUSB/1P ENP                 |     56.00
+|     74257|PRINT SERVER TP-LINK TL-PS310U USB                           |     34.00
+|    117490|PROJETOR BENQ MS-502 2700 LUMENS XGA  PRETO                  |    415.00
+|    103520|PROJETOR EPSON X12  2800 LUMENS/HDMI/USB                     |    525.00
+|    111205|PROJETOR EPSON X14  3000LUMENS/HDMI/USB***                   |    560.00
+|     95923|PROJETOR LG MULT SVGA(BS275)2700L PRETO                      |    346.00
+|    126211|PROJETOR SONY VPL DX120 2600 LUMENS                          |    540.00
+|    107781|PURIFICADOR DE AGUA HOSS WHITE 220V                          |     98.00
+|    112990|RECEP ADAPTER DONGLE UNIVERSAL KR-100                        |     34.00
+|    104016|RECEP AZ-AMERICA S-922                                       |    183.00
+|    122824|RECEP CONTROLE SHOWBOX HD                                    |     16.00
+|    122835|RECEP FONTE                                                  |     15.00
+|    124073|RECEP LNB KU 2 SAIDAS SHOWBOX                                |     14.00
+|    117009|RECEP LNB KU 4 SAIDA SKYMEDIA                                |     17.00
+|    115231|RECEP SHOWBOX IKS S-BOX MINI (NAGRA-3)                       |     39.00
+|    114790|RECEP SHOWBOX IKS/SKS SAT HD NEW C/C HDMI/RCA/SER            |    122.00
+|    115770|RECEP SHOWBOX IKS/SKS SAT SD NEW                             |     77.00
+|    124556|RECEP SHOWBOX IKS/SKS ULTRA HD MULTIMIDIA                    |    132.00
+|    103419|RECEP SHOWBOX IKS/SKS VERMELHO                               |     76.00
+|    104363|RECEP SHOWBOX NET IKS PREMIUM HD PRETO                       |    107.00
+|    100381|REDE HUB ENCORE USB 2.0 4P ENU-4USB                          |      6.00
+|     74044|REDE HUB MTEK USB SLIN2.0 MOD1011 -4PORTA PRETO              |      5.00
+|     74022|REDE HUB MTEK USB SLIN2.0 MOD1033 -4PORTA PRETO              |      6.00
+|    118032|REDE HUB SATELITTE USB 2.0 4P HUB01 PRETO                    |      6.00
+|    118043|REDE HUB SATELLITE USB 2.0 4P HUB03 PRETO                    |      6.00
+|    117457|REDE HUB SATELLITE USB 2.0 4PORTA BRANCO HUB-06              |      8.00
+|     51432|REDE HUB SATELLITE USB 2.0 4PORTA PRETO HUB-02               |      5.00
+|    101406|REDE HUB SATELLITE USB 2.0 4PORTA PRETO HUB-06               |      7.00
+|      5308|REDE PLACA ENCORE PCI 10/100 REALTEK                         |      4.50
+|     34690|REDE PLACA ENCORE PCI 10/100/1000 ENLGA-1320                 |      7.00
+|     78384|REDE PLACA TP-LINK PCI TG-3269 10/100/1000 ***               |      7.00
+|    104396|REDE PLACA TP-LINK PCI TG-3468 10/100/1000 PCI EXP           |      9.00
+|      2428|REDE SWITCH ENCORE  8P 10/100                                |     10.00
+|     89858|REDE SWITCH ENCORE  8P 10/100/1000                           |     34.00
+|      2551|REDE SWITCH ENCORE 16P 10/100                                |     22.00
+|     89847|REDE SWITCH ENCORE 16P 10/100/1000                           |     71.00
+|      2663|REDE SWITCH ENCORE 24P 10/100 ENH-924                        |     38.00
+|     21058|REDE SWITCH ENCORE 24P 10/100/1000                           |     78.00
+|     77866|REDE SWITCH TP-LINK 05P 10/100  1005D                        |      8.00
+|     60219|REDE SWITCH TP-LINK 08P 10/100  TL-SF1008D                   |     10.00
+|     95115|REDE SWITCH TP-LINK 08P 10/100/1000 TL-SG1008D               |     27.00
+|    112452|REDE SWITCH TP-LINK 16P 10/100 TL-SF1016DS RACK              |     30.00
+|     80344|REDE SWITCH TP-LINK 16P 10/100/1000 SG1016D                  |     62.00
+|     88409|REDE SWITCH TP-LINK 24P TL-SG1024 10/100/1000                |     99.00
+|    122890|SCANNER SATELLITE PORTATIL USB A-PD5301                      |     52.00
+|    122903|SCANNER SATELLITE PORTATIL USB A-PD5302                      |     52.00
+|    124589|SMART TV BOX ENJOYTV ATV-310 AND.4.0                         |    128.00
+|     99815|SPEAKER INOVIA 1018AS CORINTHIANS                            |     11.00
+|     99804|SPEAKER INOVIA 1018AS FLAMENGO                               |     11.00
+|     99837|SPEAKER INOVIA 1018AS PALMEIRAS                              |     11.00
+|     99826|SPEAKER INOVIA 1018AS SAO PAULO                              |     11.00
+|     99848|SPEAKER INOVIA 1018AS SELECAO BRASIL                         |     11.00
+|    124668|SPEAKER KLIP KSS-310B                                        |     10.00
+|     46491|SPEAKER MTEK  SPK785 220W USB BIV.PRETO                      |      6.00
+|    113970|SPEAKER ORANGE OR-MS11 MULTIMEDIA MINI PRETO                 |     25.00
+|     26805|SPEAKER SATELLITE AS311 250W PRETO                           |      8.00
+|     24779|SPEAKER SATELLITE AS667 USB                                  |      8.00
+|     99870|SPEAKER SATELLITE AS777  PORTATIL                            |     13.00
+|     99881|SPEAKER SATELLITE AS780  PORTATIL                            |     22.00
+|     10090|SPEAKER SATELLITE USB S001                                   |      6.00
+|    123814|SPEAKER SUB 2.1 FREE-WOOFER W8500 USB/MC/CINZA               |     51.00
+|    122363|SPEAKER SUB 2.1 PIXXO 50W RMS +WEBCAM                        |     32.00
+|     74550|SPEAKER SUB 2.1 SATELLITE AS668 110V                         |     10.00
+|     49933|SPEAKER SUB 2.1 SATELLITE AS861P PRETO                       |     18.00
+|     96272|SPEAKER SUB 2.1 SATELLITE AS868U PRETO                       |     16.00
+|     19974|SPEAKER SUB 2.1 SATELLITE AS878P 1500W  PRETO                |     33.00
+|     30249|SPEAKER SUB 2.1 SATELLITE AS878RPF C/CONTROL                 |     39.00
+|     82830|SPEAKER SUB 2.1 SATELLITE AS878U SD/USB                      |     45.00
+|     74661|SPEAKER SUB 2.1 SATELLITE AS883SD/USB/RADIO FM               |     50.00
+|     76944|SPEAKER SUB 2.1 SATELLITE AS886 SD/USB RADIO FM              |     31.00
+|     85573|SPEAKER SUB 2.1 SATELLITE AS887 SD/USB/FM                    |     54.00
+|    102520|SPEAKER SUB 2.1 SATELLITE AS890 SD/USB/MMC                   |     52.00
+|    114263|SPEAKER SUB 2.1 SATELLITE AS893 USB/SD/MMC/C/CONT            |     55.00
+|    114274|SPEAKER SUB 2.1 SATELLITE AS894 USB/SD/MMC/C/CONT            |     47.00
+|     85584|SPEAKER SUB 2.2 SATELLITE AS882U SD/USB/MMC                  |     48.00
+|     76966|SPEAKER SUB 5.1 SATELLITE AS- 590 USB/SD/MMC/C/CON           |     54.00
+|     76955|SPEAKER SUB 5.1 SATELLITE AS- 591 USB/SD/MMC/C/CON           |     61.00
+|    114252|SPEAKER SUB 5.1 SATELLITE AS- 592 USB/SD/MMC/C/CON           |     55.00
+|     98779|SPEAKER SUB 5.1 SATELLITE AS- 593 USB/SD/MMC/C/CON           |     69.00
+|    114285|SPEAKER SUB 5.1 SATELLITE AS- 594 USB/SD/MMC/C/CON           |     78.00
+|     61668|SPEAKER SUB 5.1 SATELLITE AS-5600                            |     54.00
+|    113532|TABLET COBY KYROS  7" PRETO                                  |     98.00
+|    123937|TABLET EXACTUS EXA-7200 3D- HDMI/WIFI/AND4.0                 |     75.00
+|    121318|TABLET GENESIS GT-7204 1.2/512/4/2C/3G/4.0 7"WHITE           |     82.00
+|    120205|TABLET GENESIS GT-7204 1.2/512/4/2C/3G/4.0 7''PRET           |     82.00
+|    126200|TABLET GENESIS GT-7220S 7"/3D/1.2GHZ/1/8GB/CINZA             |    103.00
+|    120216|TABLET GENESIS GT-7240 1.2/1/8/2C/3G/4.0/7" BRANCO           |    102.00
+|    126299|TABLET GENESIS GT-8220S A9-1.2/1G/8G/8 PRETO                 |    134.00
+|    122712|TABLET GENESIS RECEPTOR TV DIGITAL GTV-100 ISDB-T            |     20.00
+|    123219|TABLET HYUNDAI HDT- 712G 1.2/1/8/2C/4.04/3G/7"PRET           |    125.00
+|    123208|TABLET HYUNDAI HDT- 713  1.2/512/4/2C/4.11/7" PRET           |     71.00
+|    123220|TABLET HYUNDAI HDT-9710  1.2/1/16/2C/4.04/9.7"PRET           |    167.00
+|    105465|TABLET KAIOMY ICLOUD 723 4GB TELA 7"ADROID BRANCO            |     72.00
+|    105476|TABLET KAIOMY ICLOUD 723 4GB TELA 7"ADROID PRATA             |     72.00
+|    120160|TABLET KAIOMY KAICLOUD 942 4G/9" CAPAC BRANCO                |    121.00
+|    114151|TABLET SATELLITE 7" AM776A 1.2/2.3/4GB/WIFI                  |     79.00
+|    121430|TECLADO PS2 KLIP STANDAR ESPANHOL NEGRO                      |     10.00
+|     16321|TECLADO PS2 MTEK KP506 ESPANHOL PRETO                        |      6.00
+|    117962|TECLADO PS2 MTEK KP506U ABNT                                 |      7.00
+|     13755|TECLADO PS2 SATELLITE AK-900 ABNT PRETO                      |      6.00
+|     33118|TECLADO PS2 SATELLITE AK-900 ESPANHOL                        |      6.00
+|    121420|TECLADO USB KLIP KMC200E TOUCHAPAD MINI MULTIMIDA            |     37.00
+|    115332|TECLADO USB MTEK KP506U  ABNT NEGRO                          |      7.00
+|    125513|TECLADO USB MTEK KP506U  ESPANHOL NEGRO                      |      7.00
+|    124321|TECLADO USB MTEK KP507UK ABNT MULTIMIDIA NEGRO               |      8.00
+|    113914|TECLADO USB MTEK KP508UK ABNT NEGRO                          |      7.00
+|     52567|TECLADO USB MTEK+MOUSE PORT C/SCROLL PRETO/PRATA             |     20.00
+|     39360|TECLADO USB NUMERICO SATELLITE AK-180                        |     12.00
+|     28076|TECLADO USB SATELLITE AK-805  ABNT MULT                      |      8.00
+|     49327|TECLADO USB SATELLITE AK-808                                 |     12.00
+|     46290|TECLADO USB SATELLITE AK-812  ABNT MULT PRETO                |     12.00
+|     63681|TECLADO USB SATELLITE AK-812  ESPANHOL MULTIMIDIA            |     12.00
+|    120697|TECLADO USB SATELLITE AK-814P ABNT                           |      8.00
+|     63692|TECLADO USB SATELLITE AK-814P ESPANHOL                       |      8.00
+|     98072|TECLADO USB SATELLITE AK-817  ABNT MULT PRETO                |      9.00
+|    120192|TECLADO USB SATELLITE AK-821                                 |     10.00
+|    108255|TECLADO USB SATELLITE AK-823 ANTI-HACKER                     |     12.00
+|     70758|TECLADO USB SATELLITE AK-900  ABNT                           |      7.00
+|     65460|TECLADO USB SATELLITE AK-900  ESPANHOL                       |      7.00
+|     87878|TECLADO USB SATELLITE AK-XP4 OFFICE                          |     20.00
+|    121261|TECLADO+MOUSE S.FIO MTEK LASER 2.4GHZ KM7900G                |     28.00
+|     61657|TECLADO+MOUSE S.FIO SATELITE AK-705G ABNT                    |     22.00
+|     63670|TECLADO+MOUSE S.FIO SATELITE AK-705G ESPANHOL                |     24.00
+|     94428|TECLADO+MOUSE S.FIO SATELITE AK-708G                         |     21.00
+|    123904|TECLADO+MOUSE SATELLITE KIDS AK-601                          |     15.00
+|     74920|TOCA CD LG LAC300AN MP3/WMA/AUX                              |     55.00
+|    118188|TP-LINK CONVERSOR DE FIBRA MC100CM                           |     26.00
+|    118199|TP-LINK CONVERSOR DE FIBRA MC110CS                           |     26.00
+|    118201|TP-LINK CONVERSOR DE FIBRA MC111CS                           |     36.00
+|    118212|TP-LINK CONVERSOR DE FIBRA MC112CS                           |     34.00
+|    118223|TP-LINK CONVERSOR DE FIBRA MC200CM                           |     45.00
+|    118234|TP-LINK CONVERSOR DE FIBRA MC210CS                           |     48.00
+|    118245|TP-LINK CONVERSOR DE FIBRA MC220L                            |     20.00
+|    104150|TRANSMISSOR FM SATELLITE AMP22 MP3                           |      7.00
+|    116961|TRANSMISSOR FM SATELLITE AMP24 FM/MP3/WMA                    |     10.00
+|     79207|TRANSMISSOR FM SATELLITE AMP25                               |      9.00
+|     92437|TV LCD 22" LG 22LK310 HD HDMI USB                            |    225.00
+|    118100|TV LCD 32" DAEWOO DLA-32R1U                                  |    265.00
+|    113330|TV LCD 32" LG 32CS460 HD HDMI USB ISDBT                      |    315.00
+|     92481|TV LED 22" LG 22LV2500 HD HDMI USB ISDBT CONV-DIG.           |    235.00
+|    118098|TV LED 32" DAEWOO DEX-32K1D                                  |    265.00
+|    118671|TV LED 32" DAEWOO DEX-32T1I ISDB-T 3HDMI/USB                 |    293.00
+|    113341|TV LED 32" LG 32LS3500 ISDBT USB/HDMI                        |    425.00
+|     82693|UBIQUITI AIRMAX NANOSTATION LOCOM5 MIMO 13DBI                |     67.00
+|     61938|UBIQUITI AIRMAX NSM5 NANOSTATION5 MIMO 16DBI                 |     86.00
+|     93135|UBIQUITI ANT.AIRGRID M5 1114 (PONTEIRA+FONTE                 |     69.00
+|     66607|UBIQUITI ANT.AIRGRID M5 AGM5-1114 23DBI-11X14                |     69.00
+|    112799|UBIQUITI ANT.NANOBRIDGE NB-5G25 5GHZ 25DBI                   |     98.00
+|     79374|UBIQUITI NANOSTATION LOCOM9 900MHZ                           |    135.00
+|     62355|UBIQUITI NANOSTATION5 5.0GHZ 14DBI NS5.8 HOMOLOGAD           |     86.00
+|    114780|UMIDIFICADOR 1.8L A-H6603 AZUL SATELLITE                     |     19.00
+|    114825|UMIDIFICADOR 2.2L A-H6601 AZUL SATELLITE                     |     18.00
+|    114870|UMIDIFICADOR 2.2L A-H6601PK PINK SATELLITE                   |     19.00
+|    114880|UMIDIFICADOR 2.6L A-H6602B SKY SATELLITE                     |     19.00
+|    114891|UMIDIFICADOR 3.2L A-H6604 SATELLITE                          |     23.00
+|    125636|UPS INFOSEC X1 1000VA 110V                                   |     80.00
+|    100719|UPS NOBREAK WELI 1000W 220V                                  |    115.00
+|     44871|VGA PCIE. 128MB INNO GF7600GST HDTV 256B                     |     29.00
+|     34300|VGA PCIE. 256MB INNO GF6800XT DVI 256BIT                     |     31.00
+|     36301|VGA PCIE. 256MB INNO GF7600GS DVI 128BIT                     |     30.00
+|     38077|VGA PCIE. 256MB INNO GF7900GS DUAL HDTV                      |     30.00
+|     48405|VGA PCIE. 256MB INNO GF8500GT HDTV ICHIL                     |     35.00
+|     49854|VGA PCIE. 256MB INNO GF9600GT DDR3 HDT                       |     56.00
+|    120361|VGA PCIE. 512MB ECS G210 580M 32BITS                         |     26.00
+|     86250|VGA PCIE. 512MB ECS GF8400GS                                 |     29.00
+|     50352|VGA PCIE. 512MB EVGA G210 DDR3 520M 32BITS                   |     33.00
+|     36312|VGA PCIE. 512MB INNO GF7600GS DVI DONG                       |     35.00
+|     47268|VGA PCIE. 512MB XFX 8400GS 589M 64BIT                        |     29.00
+|    124253|VGA PCIE. 512MB XFX DDR3 HD 5450 650M 32BIT                  |     30.00
+|     73627|VGA PCIE. 512MB ZOTAC GF8400GS DVI TV                        |     32.00
+|    100247|VGA PCIE.1GB.DDR3 ECS G210 64BIT HDMI/DVI                    |     35.00
+|    123757|VGA PCIE.1GB.DDR3 ECS GT9800 256BITS                         |     85.00
+|     94641|VGA PCIE.1GB.DDR3 EVGA GF210 520M 64BIT                      |     36.00
+|     94630|VGA PCIE.1GB.DDR3 EVGA GS8400                                |     37.00
+|     87373|VGA PCIE.1GB.DDR3 EVGA GT430 DVI 700M 64BIT                  |     55.00
+|    115881|VGA PCIE.1GB.DDR3 EVGA GT630 810M 128BITS 2DVI               |     66.00
+|     90659|VGA PCIE.1GB.DDR3 XFX G210 HDMI/DVI/VGA                      |     35.00
+|    121597|VGA PCIE.1GB.DDR3 XFX GT520 810 64BIT                        |     46.00
+|    118963|VGA PCIE.1GB.DDR3 XFX GT610 810M 64BITS                      |     47.00
+|    121600|VGA PCIE.1GB.DDR3 XFX GT620 700M 64BITS                      |     57.00
+|    114443|VGA PCIE.1GB.DDR3 XFX HD6570 650M 64BITS                     |     64.00
+|    119582|VGA PCIE.1GB.DDR3 XFX HD6770 850M 128BIT DUAL                |    103.00
+|    126681|VGA PCIE.1GB.DDR3 ZOGIS GTS440 128BIT                        |     67.00
+|    124343|VGA PCIE.1GB.DDR5 ECS GTX560 820M 256BITS                    |    193.00
+|     86003|VGA PCIE.1GB.DDR5 EVGA GTX550 DVI/HDMI 951MHZ                |    140.00
+|    115993|VGA PCIE.2GB.DDR3 XFX GT610 64BITS                           |     54.00
+|    121610|VGA PCIE.2GB.DDR3 XFX GT620 64BITS                           |     66.00
+|    111721|VGA PCIE.2GB.DDR3 XFX HD5450 800M 64BIT                      |     46.00
+|     93157|VGA PCIE.2GB.DDR3 XFX HD6570 650M 128BIT                     |     67.00
+|    117121|VGA PCIE.2GB.DDR3 XFX HD6670 800M 128BIT                     |     85.00
+|      8502|VIDEO ENCORE TV FM COM CONTROL PCI                           |     20.00
+|    117580|VIDEO EXT USB PROLINK XCAPTURE PV-CX850U-F                   |     33.00
+|     51331|VIDEO PROLINK TV USB DIG FULL SEG PV-D231U                   |     25.00
+|    102216|W.ADAPTER PCI CISCO WMPS54G-LA                               |     19.00
+|    111394|W.ADAPTER PCI EXP ASUS PCE-N10 150MBPS                       |     19.00
+|    112060|W.ADAPTER PCI TP-LINK WDN4800 450MBPS WIRELESS               |     34.00
+|    118414|W.ADAPTER PCI TP-LINK WN751ND 15OMBPS 1 ANTENA               |     12.00
+|     65729|W.ADAPTER PCI TP-LINK WN851ND 300M 2ANT DESTACAVEL           |     16.00
+|     66651|W.ADAPTER PCI TP-LINK WN951N 300M 3ANT MIMO                  |     25.00
+|    111407|W.ADAPTER USB ASUS N-10 150MBPS                              |     17.00
+|    102282|W.ADAPTER USB CISCO  WUUSB54GC-LA 54MBPS                     |     28.00
+|     93540|W.ADAPTER USB ENCORE N150MBPS 1X42 C/ANT 2 2DBI              |     10.00
+|     93550|W.ADAPTER USB ENCORE N150MBPS 1XN45                          |     12.00
+|     93539|W.ADAPTER USB ENCORE N300MBPS 2XN45 C/ANT 2 5DBI             |     14.00
+|     81569|W.ADAPTER USB TP-LINK WN7200ND 150MBPS 5DBI 1AN              |     16.00
+|     62110|W.ADAPTER USB TP-LINK WN721N 150MBPS ANT INTERN              |     10.00
+|     73930|W.ADAPTER USB TP-LINK WN722N 150MBPS ANT EXT                 |     10.00
+|     66875|W.ADAPTER USB TP-LINK WN722NC C/SUP USB/150MBPS              |     11.00
+|     88320|W.ADAPTER USB TP-LINK WN723N 150MBP  MINI                    |     11.00
+|    120070|W.ADAPTER USB TP-LINK WN725N 150MBPS NANO N                  |     10.00
+|     65909|W.ADAPTER USB TP-LINK WN727N 150MBPS ANT INTERN              |     10.00
+|     62322|W.ADAPTER USB TP-LINK WN821N 300MBPS ATH                     |     13.00
+|    102888|W.ANTENA AIR LIVE 10DBI WAI-101 OMNI                         |     11.00
+|    118256|W.ANTENA TP-LINK TL-ANT2403N 2.4 3DBI                        |     14.00
+|    118267|W.ANTENA TP-LINK TL-ANT2406A 2.4 6DBI                        |     15.00
+|     72962|W.ANTENA TP-LINK TL-ANT2408CL 2.4 8DBI OMNI                  |      6.00
+|    118278|W.ANTENA TP-LINK TL-ANT2409A 2.4 9DBI                        |     19.00
+|    118289|W.ANTENA TP-LINK TL-ANT2409B 2.4 9DBI                        |     19.00
+|    118290|W.ANTENA TP-LINK TL-ANT2414A 2.4 14DBI                       |     47.00
+|     38492|W.AP+ROUTER AIR LIVE OVISLINK 5460 B/G 400 MW                |     34.00
+|    111383|W.AP+ROUTER ASUS   300MBPS RT-N12E                           |     37.00
+|    126097|W.AP+ROUTER D-LINK 4P DIR 610 150MBPS                        |     19.00
+|     51285|W.AP+ROUTER D-LINK WDA 1320 PCI 54MPS                        |     21.00
+|    118728|W.AP+ROUTER ENCORE 150MPS ENHWI-1A N42                       |     19.00
+|    113475|W.AP+ROUTER ENCORE 150MPS ENHWI-3G                           |     35.00
+|    118740|W.AP+ROUTER ENCORE 300MPS ENHWI-2A N42                       |     25.00
+|    118750|W.AP+ROUTER ENCORE 300MPS ENHWI-2A N45                       |     29.00
+|    120372|W.AP+ROUTER KAIOMY 150APR-4P5 4LAN 1WAN                      |     18.00
+|    120080|W.AP+ROUTER TP-LINK MR3040 3G WIRELESS PORTATIL              |     34.00
+|     77901|W.AP+ROUTER TP-LINK MR3220 3G 150MBPS 1-ANTENA               |     24.00
+|     71860|W.AP+ROUTER TP-LINK MR3420 3G 300MBPS 2-ANTENA               |     32.00
+|     69553|W.AP+ROUTER TP-LINK WA701ND 150MBPS 4DBI 1 ANT 1P            |     21.00
+|     77025|W.AP+ROUTER TP-LINK WA801ND N 300MBPS 2 ANT 1P               |     32.00
+|     73390|W.AP+ROUTER TP-LINK WA901ND 300 MBPS 3 ANT 1P                |     39.00
+|    115860|W.AP+ROUTER TP-LINK WDR4300 DUAL BAND N750                   |     71.00
+|     70130|W.AP+ROUTER TP-LINK WR1043ND 300MBPS MIMO 3-ANT 1            |     50.00
+|    118177|W.AP+ROUTER TP-LINK WR702N 150MBPS NANO ROUTER USB           |     17.00
+|    125366|W.AP+ROUTER TP-LINK WR720N 150MBPS                           |     15.00
+|     88050|W.AP+ROUTER TP-LINK WR740N 150MBPS 1-ANTENA FI               |     17.00
+|     63064|W.AP+ROUTER TP-LINK WR741ND 150MBPS 1-ANTENA                 |     18.00
+|     77563|W.AP+ROUTER TP-LINK WR743ND 150MBPS AP+CLIENTE               |     24.00
+|     62120|W.AP+ROUTER TP-LINK WR841ND 300MBPS 2-ANTENA                 |     24.00
+|     62333|W.AP+ROUTER TP-LINK WR941ND 300MBPS 3-ANTENA                 |     35.00
+|    118302|W.CABO TP-LINK TL-ANT24EC12N 12M 2.4                         |     31.00
+|    118313|W.CABO TP-LINK TL-ANT24EC3S 3M 2.4                           |     10.00
+|    118324|W.CABO TP-LINK TL-ANT24EC5S 5M 2.4                           |     11.00
+|    118335|W.CABO TP-LINK TL-ANT24EC6N 6M 2.4                           |     15.00
+|    118346|W.CABO TP-LINK TL-ANT24PT PIGTAIL                            |      7.00
+|    113677|W.MIKROTIK ROUTERBOARD GROOVE 5HN COM FONTE LICE3            |     67.00
+|    114487|W.MIKROTIK ROUTERBOARD RB-711GA-5HND LICENC NIV4             |     92.00
+|    102250|W.MODEM ADSL+ROUTER+AP CISCO E1500LA 4P/300MBPS              |     73.00
+|    102249|W.MODEM ADSL+ROUTER+AP CISCO E2100L 4P/USB/300MBPS           |    109.00
+|    116063|W.MODEM ADSL+ROUTER+AP D-LINK 2730B 4P                       |     29.00
+|    115567|W.MODEM ADSL+ROUTER+AP EDIMAX 7084G 4P = 2640B               |     24.00
+|    108536|W.MODEM ADSL+ROUTER+AP TP-LINK TD-W8101G 54MBPS 1P           |     18.00
+|     75695|W.MODEM ADSL+ROUTER+AP TP-LINK TD-W8950ND 150MBPS            |     33.00
+|     80805|W.MODEM ADSL+ROUTER+AP TP-LINK TD-W8951ND 150MBPS            |     26.00
+|     67180|W.MODEM ADSL+ROUTER+AP TP-LINK TD-W8960N MIMO 300M           |     40.00
+|     77585|W.MODEM ADSL+ROUTER+AP TP-LINK TD-W8961ND 300MBPS            |     33.00
+|    112474|W.TP-LINK TL-WPA281 KIT POWERLINE 300MBPS                    |     69.00
+|     96812|ZZCCTV CAM ST- 656  1/3" SONY CCD NTSC 6MM                   |     27.00
+|     10179|ZZSERVICO DE MONTAGEM                                        |     20.00

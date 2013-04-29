@@ -1,9 +1,10 @@
 class ConsignmentDetail < ActiveRecord::Base
-  attr_accessible :product_id, :quantity, :cost
+  attr_accessible :consignment_id, :product_id, :quantity, :cost
   belongs_to :consignment
+  belongs_to :product
   
-  validates :consignment_id, :presence => true, :unless => :nested
-  validates :product_id, :presence => true, :unless => :nested
+  validates_associated :consignment
+  validates_associated :product
   validates :quantity, :numericality => { :greater_than => 0 }
   validates :cost, :numericality => { :greater_than_or_equal_to => 0 }
 

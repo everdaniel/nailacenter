@@ -1,0 +1,23 @@
+<tr class="fields <%= tr_group_class f.object %>">
+  <% #if f.object.product.nil? %>
+  <%
+    if f.object.new_record?
+      product_name = nil
+      if !f.object.product.nil?
+        product_name = f.object.product.short_name
+      end
+  %>
+  <td class="text-right"><%= f.text_field :product_id, :id => nil, :class => 'input-mini text-right', :readonly => true, :tabindex => -1 %></td>
+  <td><%= text_field_tag "product", product_name, :placeholder => "Buscar producto...", :class => "input-xxlarge product_autocomplete", :data => { :autocomplete_source => products_path } %></td>
+  <td class="text-right"><%= f.text_field :quantity, :class => 'input-mini product_quantity text-right' %></td>
+  <td class="text-right"><%= f.text_field :cost, :class => 'input-mini product_cost text-right' %></td>
+  <% else %>
+  <td class="text-right"><%= f.object.product.id %></td>
+  <td><%= f.object.product.short_name %></td>
+  <td class="text-right"><%= format_with_no_decimals f.object.quantity %></td>
+  <td class="text-right"><%= format_with_two_decimals f.object.cost %></td>
+  <% end %>
+  <td class="text-center">
+    <%= link_to_remove_fields "Borrar", f %>
+  </td>
+</tr>

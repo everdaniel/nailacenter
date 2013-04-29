@@ -8,13 +8,13 @@ class ConsignmentsController < ApplicationController
   def new
     @consignment = Consignment.new
     @consignment.name = "Pedido del " + Date.today.to_s
-    @suppliers = Supplier.order(:name).all
+    3.times { @consignment.consignment_details.build }
   end
 
   def create
     @consignment = Consignment.new(params[:consignment])
     if @consignment.save
-      flash[:success] = "Pedido creado correctamnete"
+      flash[:success] = "Pedido creado correctamente"
       redirect_to @consignment
     else
       render 'new'
@@ -37,8 +37,6 @@ class ConsignmentsController < ApplicationController
 
   def show
     @consignment = Consignment.find(params[:id])
-    @consignment_details = @consignment.consignment_details.paginate(page: params[:page])
-    @products = Product.order(:short_name).search(params[:search]) if !params[:search].blank?
   end
 
   def destroy
@@ -47,4 +45,59 @@ class ConsignmentsController < ApplicationController
     redirect_to consignments_path
   end
 
+  def receive
+    @consignment = Consignment.find(params[:consignment_id])
+    if @consignment.status == 6
+      flash[:warning] = "El pedido ya se ha recibido"
+      redirect_to consignments_path
+    end
+  end
+
+  def receive_update
+    @consignment = Consignment.find(params[:consignment_id])
+    
+    if @consignment.status == 6
+      flash[:warning] = "El pedido ya se ha recibido"
+      redirect_to consignments_path
+    end
+
+    if !params[:receive].empty?
+      params[:receive].each do |detail|
+        detail = detail[1]
+        cost = detail["cost"].to_f
+        price = detail["price"].to_f
+        if price < cost
+          flash[:success] = "Verifique que los precios son mayores al costo de compra"
+          redirect_to consignment_receive_path(@consignment)
+        end
+      end
+      params[:receive].each do |detail|
+        # get shit
+        detail = detail[1]
+        product_id = detail["id"]
+        quantity = detail["quantity"]
+        cost = detail["cost"]
+        price = detail["price"]
+
+        # Find shit
+        product = Product.find(product_id)
+        stock = Stock.find_by_product_id_and_cost(product_id, cost)
+
+        # update shit
+        if !stock.nil?
+          stock.quantity += quantity.to_f
+          stock.save
+        else
+          new_stock = product.stocks.new
+          new_stock.cost = cost
+          new_stock.price = price
+          new_stock.quantity = quantity
+          new_stock.save
+        end
+      end
+      @consignment.status = 6
+      @consignment.save
+    end
+    redirect_to consignments_path
+  end
 end

@@ -7,7 +7,7 @@ class Stock < ActiveRecord::Base
   validates :quantity, presence: true
   validate :cost_is_less_than_total
 
-  default_scope order: 'stocks.cost DESC'
+  default_scope order: "stocks.cost DESC, stocks.price DESC"
 
   private
     def cost_is_less_than_total

@@ -3,8 +3,8 @@
 	<td><%= link_to product.sku, product %></td>
 	<td class=""><%= link_to product.short_name, product %></td>
 	<td class="text-center"><%= product.is_active ? "Si" : "No" %></td>
-	<td class="text-right"><%= product.stocks.first.price if !product.stocks.first.nil? %></td>
-	<td class="text-right"><%= product.stocks.sum(:quantity) %></td>
+	<td class="text-right"><%= format_with_two_decimals product.stocks.first.price if !product.stocks.first.nil? %></td>
+	<td class="text-right"><%= format_with_no_decimals product.stocks.sum(:quantity) %></td>
 	<td class="text-center">
 		<%= link_to "Ver", product, class: "btn btn-small btn-success" %>
 		<% if current_user.admin? %>

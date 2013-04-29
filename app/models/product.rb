@@ -6,7 +6,7 @@ class Product < ActiveRecord::Base
   before_save { |product| product.short_name = short_name.upcase }
 
   validates :sku, :uniqueness => true, presence: true, length: { minimum: 2, maximum: 12 }
-  validates :short_name, :uniqueness => true, presence: true, length: { minimum: 2, maximum: 32 }
+  validates :short_name, :uniqueness => true, presence: true, length: { minimum: 2, maximum: 64 }
   validates :name, presence: true, length: { minimum: 2, maximum: 255 }
 
   def self.search(search)

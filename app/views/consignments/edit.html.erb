@@ -1,2 +1,4 @@
-<h1>Consignments#edit</h1>
-<p>Find me in app/views/consignments/edit.html.erb</p>
+<% provide(:title, "Editar " + @consignment.name) %>
+<h2>Editar <%= @consignment.name %></h2>
+
+<%= render 'form' %>

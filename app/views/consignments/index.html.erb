@@ -12,6 +12,18 @@
   </div>
 </div>
 
+<!-- ul class="nav nav-tabs">
+  <li class="active">
+    <%= link_to "Todos", consignments_path %>
+  </li>
+  <li>
+    <%= link_to "Enviados", consignments_path(:status => "enviados") %>
+  </li>
+  <li>
+    <%= link_to "Recibidos", consignments_path(:status => "recibidos") %>
+  </li>
+</ul -->
+
 <%= will_paginate %>
 
 <table class="table table-striped table-bordered table-hover table-condensed">
@@ -19,6 +31,9 @@
     <tr>
       <th>ID</th>
       <th>Pedido</th>
+      <th>Producto(s)</th>
+      <th>Item(s)</th>
+      <th>Total</th>
       <th>Estado</th>
       <th>Acciones</th>
     </tr>

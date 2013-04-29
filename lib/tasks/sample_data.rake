@@ -43,21 +43,72 @@ def make_users
 end
 
 def make_products
-  99.times do |n|
-    sku = Faker::Lorem.characters(6).upcase + "-#{n}"
-    short_name = Faker::Lorem.characters(22).upcase
-    name = Faker::Lorem.characters(120)
-    #description = Faker::Lorem.words(12)
-    Product.create!(
+  product_file = 'db/products_sample.txt'
+  File.foreach(product_file) do |file_line|
+
+    # split columns
+    #file_line = file_line.encode("utf-8", "binary", :invalid => :replace, :undef => :replace)
+    row = file_line.split("|")
+
+    # Product
+    sku = row[1].strip.to_s
+    short_name = row[2].strip[0..64]
+    name = row[2].strip.downcase.titleize
+
+    # Save product
+    product = Product.create!(
       sku: sku,
       short_name: short_name,
       name: name,
       description: nil,
       reference: nil,
       is_active: true,
-      last_sale: n.hours.ago,
-      last_buy: n.days.ago)
+      last_sale: rand(1..100).hours.ago,
+      last_buy: rand(1..10).days.ago)
+    
+    # Save first stock with original cost
+    cost = row[3].strip().to_f
+    price = cost + (cost * 30 / 100)
+    product.stocks.create!(
+      cost: cost,
+      price: price,
+      quantity: rand(10...1000))
+
+    # me estoy complicando con esto??? >:/
+    for i in (1..10).to_a.sample(rand(3..10))
+
+      # change the cost
+      cost_change_percentage = rand(-10..-1)
+      cost = row[3].strip().to_f
+      cost += cost * cost_change_percentage / 100
+
+      # change the price
+      price_change_percentage = rand(10..25)
+      price = cost + (cost * price_change_percentage / 100)
+
+      # Save stock
+      product.stocks.create!(
+        cost: cost,
+        price: price,
+        quantity: rand(5...100))
+    end
   end
+
+  #99.times do |n|
+  #  sku = Faker::Lorem.characters(6).upcase + "-#{n}"
+  #  short_name = Faker::Lorem.characters(22).upcase
+  #  name = Faker::Lorem.characters(120)
+  #  #description = Faker::Lorem.words(12)
+  #  Product.create!(
+  #    sku: sku,
+  #    short_name: short_name,
+  #    name: name,
+  #    description: nil,
+  #    reference: nil,
+  #    is_active: true,
+  #    last_sale: n.hours.ago,
+  #    last_buy: n.days.ago)
+  #end
 end
 
 def make_customers

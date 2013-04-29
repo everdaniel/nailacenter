@@ -60,7 +60,7 @@ describe Product do
     end
 
     describe "is too long" do
-      before { @product.short_name = "a" * 33 }
+      before { @product.short_name = "a" * 65 }
       it { should_not be_valid }
     end
   end

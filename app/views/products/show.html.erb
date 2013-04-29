@@ -19,9 +19,9 @@
 		<div class="span2">
 			<dl>
 				<dt>Precio venta</dt>
-				<dd><%= @product.stocks.first.price if @product.stocks.any? %></dd>
+				<dd><%= format_with_two_decimals @product.stocks.first.price if @product.stocks.any? %></dd>
 				<dt>En stock</dt>
-				<dd><%= @product.stocks.sum(:quantity) if @product.stocks.any? %></dd>
+				<dd><%= format_with_no_decimals @product.stocks.sum(:quantity) if @product.stocks.any? %></dd>
 			</dl>
 		</div>
 	</div>
@@ -47,9 +47,9 @@
 			<tbody>
 				<% @product.stocks.each do |stock| %>
 				<tr>
-					<td class="text-right"><%= stock.cost %></td>
-					<td class="text-right"><%= stock.price %></td>
-					<td class="text-right"><%= stock.quantity %></td>
+					<td class="text-right"><%= format_with_two_decimals stock.cost %></td>
+					<td class="text-right"><%= format_with_two_decimals stock.price %></td>
+					<td class="text-right"><%= format_with_no_decimals stock.quantity %></td>
 				</tr>
 				<% end %>
 			</tbody>

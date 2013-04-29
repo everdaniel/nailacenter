@@ -221,6 +221,13 @@ es:
         first_name: Nombre
         last_name: Apellido
         company_name: Empresa
+      consignment:
+        supplier_id: Proveedor
+      consignment_details:
+        consignment_id: Pedido
+        product_id: Producto 
+        quantity: Cantidad
+        cost: Costo
   will_paginate:
     previous_label: "&#8592; Anterior"
     next_label: "Siguiente &#8594;"

@@ -1,7 +1,8 @@
 <header class="navbar navbar-fixed-top navbar-inverse">
   <div class="navbar-inner">
     <div class="container">
-      <%= link_to "Naila Center", root_path, id: "logo", class: "brand" %>
+      <%= link_to image_tag("nailacenter_logo.png"), root_path, id: "logo", class: "brand brand-naila" %>
+      <%#= link_to "Naila Center", root_path, id: "logo", class: "brand" %>
       <nav>
         <ul class="nav pull-right">
           <% if signed_in? %>

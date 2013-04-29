@@ -2,7 +2,15 @@ class ProductsController < ApplicationController
   before_filter :signed_in_user
 
   def index
-    @products = Product.order(:short_name).paginate(page: params[:page]).search(params[:search])
+    search_query = params[:search] || params[:term]
+    @products = Product.order(:short_name).paginate(page: params[:page]).search(search_query)
+
+    respond_to do |format|
+      format.html # index.html.erb
+      #format.json { render :json => @products.map(&:short_name) }
+      format.json { render :json => @products.to_json(:only => [ :short_name, :id]) }
+      format.xml { render :json => @products }
+    end
   end
 
   def show

@@ -9,8 +9,10 @@ Nailacenter::Application.routes.draw do
   resources :products
   resources :suppliers
   resources :customers
-  resources :consignments
-  resources :consignment_details
+  resources :consignments do
+    get :receive
+    put :receive_update
+  end
 
   match '/dashboard', to: 'dashboard#index'
 

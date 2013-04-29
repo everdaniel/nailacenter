@@ -1,2 +1,51 @@
-<h1>Dashboard</h1>
-<p>Datos estadísticos se muestran aquí.</p>
+<% if signed_in? && current_user.admin? %>
+
+<hr class="hr" />
+
+<h1>Ventas</h1>
+<div class="row">
+  <div class="span3 box-stats text-center">
+    <h2>120,000</h2>
+    <p>ventas hoy</p>
+  </div>
+  <div class="span3 box-stats text-center">
+    <h2>135,000</h2>
+    <p>ventas ayer</p>
+  </div>
+  <div class="span3 box-stats text-center">
+    <h2>250,000</h2>
+    <p>en ventas este mes</p>
+  </div>
+  <div class="span3 box-stats text-center">
+    <h2>450,000</h2>
+    <p>en ventas mes pasado</p>
+  </div>
+</div>
+
+<hr class="hr" />
+
+<h1>Stock</h1>
+<div class="row">
+  <div class="span3 box-stats text-center">
+    <h2>375</h2>
+    <p>productos</p>
+  </div>
+  <div class="span3 box-stats text-center">
+    <h2>1,500</h2>
+    <p>items</p>
+  </div>
+  <div class="span3 box-stats text-center">
+    <h2>85,000</h2>
+    <p>items comprados</p>
+  </div>
+  <div class="span3 box-stats text-center">
+    <h2>123,000</h2>
+    <p>inventario</p>
+  </div>
+</div>
+
+<% else %>
+<div class="text-center">
+  <%= image_tag "nailacenter_isologo.png" %>
+</div>
+<% end %>
