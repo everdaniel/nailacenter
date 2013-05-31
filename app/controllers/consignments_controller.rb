@@ -46,7 +46,7 @@ class ConsignmentsController < ApplicationController
   end
 
   def receive
-    @consignment = Consignment.find(params[:consignment_id])
+    @consignment = Consignment.find(params[:id])
     if @consignment.status == 6
       flash[:warning] = "El pedido ya se ha recibido"
       redirect_to consignments_path
@@ -54,7 +54,7 @@ class ConsignmentsController < ApplicationController
   end
 
   def receive_update
-    @consignment = Consignment.find(params[:consignment_id])
+    @consignment = Consignment.find(params[:id])
     
     if @consignment.status == 6
       flash[:warning] = "El pedido ya se ha recibido"

@@ -46,11 +46,11 @@ class UsersController < ApplicationController
   end
 
   def change_password
-    @user = User.find(params[:user_id])
+    @user = User.find(params[:id])
   end
 
   def change_password_update
-    @user = User.find(params[:user_id])
+    @user = User.find(params[:id])
     @user.updating_password = true
     if ((params[:user][:password] == params[:user][:password_confirmation]) && !params[:user][:password_confirmation].blank?)
       @user.password_confirmation = params[:user][:password_confirmation]

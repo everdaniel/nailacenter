@@ -10,7 +10,7 @@
 
 
 <% if @consignment.consignment_details.any? %>
-<%= form_tag consignment_receive_update_path(@consignment), :method => :put do |f| %>
+<%= form_tag receive_update_consignment_path(@consignment), :method => :put do |f| %>
 <%#= hidden_field_tag :consignment_id, @consignment.id %>
 <div class="row">
   <div class="span4 text-center box-stats">

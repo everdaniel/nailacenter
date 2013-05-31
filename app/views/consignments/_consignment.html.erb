@@ -8,7 +8,7 @@
   <td>
     <%= link_to "Ver", consignment, class: "btn btn-small" %>
     <%= link_to("Editar", edit_consignment_path(consignment), class: "btn btn-small") if current_user.admin? %>
-    <%= link_to("Recibir", consignment_receive_path(consignment), class: "btn btn-small btn-primary", data: { confirm: "Esta seguro?" }) if consignment.status == 1 %>
+    <%= link_to("Recibir", receive_consignment_path(consignment), class: "btn btn-small btn-primary", data: { confirm: "Esta seguro?" }) if consignment.status == 1 %>
     <%= link_to("Borrar", consignment, class: "btn btn-small btn-danger", method: :delete, data: { confirm: "Esta seguro?" }) if current_user.admin? %>
   </td>
 </tr>
