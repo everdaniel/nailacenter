@@ -28,7 +28,6 @@ function remove_fields(link) {
 }
 
 function setup_autocomplete(field) {
-  //console.log(field);
   field.autocomplete({
     minLength: 2,
     source: field.data('autocomplete-source'),
