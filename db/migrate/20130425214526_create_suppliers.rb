@@ -4,10 +4,8 @@ class CreateSuppliers < ActiveRecord::Migration
       t.string :short_name
       t.string :name
       t.text :description
-      
       t.timestamps
     end
-    
     add_index :suppliers, :short_name, unique: true
   end
 end

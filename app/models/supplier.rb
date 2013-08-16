@@ -1,9 +1,7 @@
 class Supplier < ActiveRecord::Base
   attr_accessible :short_name, :name, :description
   has_many :consignments
-
   before_save { |supplier| supplier.short_name = short_name.upcase }
-
   validates :short_name, :uniqueness => true, presence: true, length: { minimum: 2, maximum: 32 }
   validates :name, presence: true, length: { minimum: 2, maximum: 255 }
   
@@ -15,5 +13,4 @@ class Supplier < ActiveRecord::Base
       find(:all)
     end
   end
-
 end

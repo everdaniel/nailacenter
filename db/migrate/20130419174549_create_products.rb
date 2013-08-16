@@ -8,7 +8,6 @@ class CreateProducts < ActiveRecord::Migration
       t.string :reference
       t.date :last_sale
       t.date :last_buy
-      
       t.timestamps
     end
 

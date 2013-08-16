@@ -1,6 +1,6 @@
 <tr>
   <td class="text-center"><%= link_to consignment.id, consignment %></td>
-  <td><%= link_to consignment.name, consignment %> a <%= link_to consignment.supplier.name, consignment.supplier %></td>
+  <td><%= link_to consignment.name, consignment %> a <%= link_to consignment.supplier_name, consignment.supplier %></td>
   <td class="text-right"><%= format_with_no_decimals consignment.consignment_details.count(:quantity) %></td>
   <td class="text-right"><%= format_with_no_decimals consignment.consignment_details.sum(:quantity) %></td>
   <td class="text-right"><%= format_with_two_decimals consignment.consignment_details.sum("cost * quantity") %></td>

@@ -2,10 +2,8 @@ class User < ActiveRecord::Base
   attr_accessible :first_name, :last_name, :username, :email, :password, :password_confirmation, :admin
   attr_accessor :updating_password
   has_secure_password
-
   before_save { |user| user.email = email.downcase }
   before_save :create_remember_token
-
   validates :first_name, presence: true, length: { minimum: 2, maximum: 65 }
   validates :last_name, presence: true, length: { minimum: 2, maximum: 65 }
   validates :username, presence: true, length: { minimum: 2, maximum: 65 }, uniqueness: { case_sensitive: false }
@@ -22,5 +20,4 @@ class User < ActiveRecord::Base
   	def create_remember_token
   		self.remember_token = SecureRandom.urlsafe_base64
   	end
-    
 end

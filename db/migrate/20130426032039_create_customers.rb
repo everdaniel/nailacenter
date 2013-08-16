@@ -7,7 +7,6 @@ class CreateCustomers < ActiveRecord::Migration
       t.string :company_name
       t.string :phone
       t.string :mobile
-
       t.timestamps
     end
   end

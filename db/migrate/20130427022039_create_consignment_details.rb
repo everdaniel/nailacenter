@@ -5,7 +5,6 @@ class CreateConsignmentDetails < ActiveRecord::Migration
       t.references :product
       t.integer :quantity
       t.decimal :cost
-
       t.timestamps
     end
 

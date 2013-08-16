@@ -5,7 +5,6 @@ class CreateStocks < ActiveRecord::Migration
       t.decimal :cost
       t.decimal :price
       t.decimal :quantity
-
       t.timestamps
     end
 

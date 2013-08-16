@@ -17,7 +17,6 @@ def make_users
     password: "password",
     password_confirmation: "password")
   admin.toggle!(:admin)
-  
   sales = User.create!(
     first_name: "Roger",
     last_name: "Sterlink",
@@ -65,7 +64,6 @@ def make_products
       is_active: true,
       last_sale: rand(1..100).hours.ago,
       last_buy: rand(1..10).days.ago)
-    
     # Save first stock with original cost
     cost = row[3].strip().to_f
     price = cost + (cost * 30 / 100)

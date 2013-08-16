@@ -42,5 +42,4 @@ class SuppliersController < ApplicationController
     flash[:success] = "Proveedor borrado correctamente"
     redirect_to suppliers_path
   end
-  
 end

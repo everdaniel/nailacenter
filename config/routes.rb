@@ -1,5 +1,4 @@
 Nailacenter::Application.routes.draw do
-
   resources :sessions, only: [:new, :create, :destroy]
   resources :users do
     member do
@@ -16,14 +15,10 @@ Nailacenter::Application.routes.draw do
       put :receive_update
     end
   end
-
   match '/dashboard', to: 'dashboard#index'
-
   # User Login / Logout
   match '/login',     to: 'sessions#new'
   match '/logout',    to: 'sessions#destroy', via: :delete
-  
   # Default
   root :to => 'dashboard#index'
-  
 end

@@ -4,7 +4,6 @@ class CreateConsignments < ActiveRecord::Migration
       t.integer :supplier_id
       t.string :name
       t.integer :status, :default => 1
-
       t.timestamps
     end
 

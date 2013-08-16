@@ -1,8 +1,6 @@
 class Customer < ActiveRecord::Base
   attr_accessible :code, :company_name, :first_name, :last_name, :mobile, :phone
-
   before_save { |customer| customer.code = code.upcase }
-
   validates :code, :uniqueness => true, presence: true, length: { minimum: 2, maximum: 12 }
 
   def self.search(search)
