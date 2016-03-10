@@ -19,7 +19,7 @@ def make_users
   admin.toggle!(:admin)
   sales = User.create!(
     first_name: "Roger",
-    last_name: "Sterlink",
+    last_name: "Sterling",
     username: "roger",
     email: "r.sterling@scdp.com",
     password: "password",

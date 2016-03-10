@@ -62,7 +62,7 @@ describe Supplier do
       supplier_with_same_short_name.short_name = @supplier.short_name
       supplier_with_same_short_name.save
     end
-    
+
     it { should_not be_valid }
   end
 end

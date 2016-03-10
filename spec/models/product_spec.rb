@@ -27,7 +27,7 @@ describe Product do
   it { should respond_to(:last_buy) }
 
   it { should be_valid }
-  
+
 
   describe "when SKU" do
     describe "is not present" do
@@ -92,7 +92,7 @@ describe Product do
       product_with_same_sku.sku = @product.sku
       product_with_same_sku.save
     end
-    
+
     it { should_not be_valid }
   end
 
@@ -104,7 +104,7 @@ describe Product do
       product_with_same_short_name.short_name = @product.short_name
       product_with_same_short_name.save
     end
-    
+
     it { should_not be_valid }
   end
 end
