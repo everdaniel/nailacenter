@@ -9,7 +9,7 @@ es:
     - vie
     - sáb
     abbr_month_names:
-    - 
+    -
     - ene
     - feb
     - mar
@@ -35,7 +35,7 @@ es:
       long: ! '%A, %d de %B de %Y'
       short: ! '%d de %b'
     month_names:
-    - 
+    -
     - enero
     - febrero
     - marzo
@@ -225,7 +225,7 @@ es:
         supplier_id: Proveedor
       consignment_details:
         consignment_id: Pedido
-        product_id: Producto 
+        product_id: Producto
         quantity: Cantidad
         cost: Costo
   will_paginate:

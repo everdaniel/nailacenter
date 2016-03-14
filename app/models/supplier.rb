@@ -4,7 +4,7 @@ class Supplier < ActiveRecord::Base
   before_save { |supplier| supplier.short_name = short_name.upcase }
   validates :short_name, :uniqueness => true, presence: true, length: { minimum: 2, maximum: 32 }
   validates :name, presence: true, length: { minimum: 2, maximum: 255 }
-  
+
   def self.search(search)
     if search
       search_condition = "%#{search.downcase}%"

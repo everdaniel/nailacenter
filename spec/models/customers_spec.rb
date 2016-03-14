@@ -49,7 +49,7 @@ describe Customer do
       customer_with_same_code.code = @customer.code
       customer_with_same_code.save
     end
-    
+
     it { should_not be_valid }
   end
 end
